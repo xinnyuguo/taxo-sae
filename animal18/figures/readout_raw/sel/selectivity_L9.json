@@ -1,0 +1,293 @@
+{
+ "L9": {
+  "layer": 9,
+  "n_questions": 360,
+  "clean_exact": 0.9361110925674438,
+  "clean_logp": -0.5992955565452576,
+  "hier_leaf": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9388888743188646,
+     "other_exact": 0.936111095878813,
+     "self_logp_drop": 0.0013146295603800378,
+     "other_logp_drop": -0.0003478560321418121
+    },
+    "2": {
+     "self_exact": 0.9388888743188646,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": 0.0005592500646242923,
+     "other_logp_drop": -0.0007163066685886103
+    },
+    "5": {
+     "self_exact": 0.9361110991901822,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": -0.010902534067604898,
+     "other_logp_drop": -0.0019096361073833476
+    },
+    "10": {
+     "self_exact": 0.8833333320087857,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": 0.12964561727777538,
+     "other_logp_drop": -0.003975016687440479
+    },
+    "20": {
+     "self_exact": 0.5000000002069606,
+     "other_exact": 0.9354575044578977,
+     "self_logp_drop": 2.2333141242464385,
+     "other_logp_drop": -0.008361214562480908
+    },
+    "40": {
+     "self_exact": 0.10277777993016773,
+     "other_exact": 0.9315359360641904,
+     "self_logp_drop": 6.831123325559828,
+     "other_logp_drop": -0.005384422015696246
+    },
+    "80": {
+     "self_exact": 0.0,
+     "other_exact": 0.9052287571960025,
+     "self_logp_drop": 10.809341457155016,
+     "other_logp_drop": 0.09623568104466863
+    },
+    "160": {
+     "self_exact": 0.0,
+     "other_exact": 0.8356209165520139,
+     "self_logp_drop": 14.065346188015408,
+     "other_logp_drop": 0.5022843916796975
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.9315359360641904,
+   "s0": 80,
+   "other_exact_at_s0": 0.9052287571960025,
+   "other_exact_at_2s0": 0.8356209165520139
+  },
+  "hier_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0003625367923329274,
+     "other_logp_drop": -0.00010749261082310113
+    },
+    "2": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.0008930859621614218,
+     "other_logp_drop": -0.0002125802290796249
+    },
+    "5": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.010916359877834717,
+     "other_logp_drop": -0.0005158686048313635
+    },
+    "10": {
+     "self_exact": 0.9166666666666666,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": 0.007040433430423339,
+     "other_logp_drop": -0.0009948941436353682
+    },
+    "20": {
+     "self_exact": 0.6416666607062022,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 1.1774368205418189,
+     "other_logp_drop": -0.0019618341078360877
+    },
+    "40": {
+     "self_exact": 0.2666666740551591,
+     "other_exact": 0.9333333373069763,
+     "self_logp_drop": 4.276930431524913,
+     "other_logp_drop": 0.001170327013824135
+    },
+    "80": {
+     "self_exact": 0.02222222276031971,
+     "other_exact": 0.9133333464463552,
+     "self_logp_drop": 8.620513757069906,
+     "other_logp_drop": 0.060239756014198065
+    },
+    "160": {
+     "self_exact": 0.0,
+     "other_exact": 0.850000003973643,
+     "self_logp_drop": 12.197363138198853,
+     "other_logp_drop": 0.3551854396549364
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.9333333373069763,
+   "s0": 80,
+   "other_exact_at_s0": 0.9133333464463552,
+   "other_exact_at_2s0": 0.850000003973643
+  },
+  "full_k1_leaf": {
+   "curve": {
+    "1": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9364378949006399,
+     "self_logp_drop": 0.0009415605653152347,
+     "other_logp_drop": 0.0001561931739583127
+    },
+    "2": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9366012944115533,
+     "self_logp_drop": -0.00012454740064842755,
+     "other_logp_drop": 0.00022205783875892425
+    },
+    "5": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9369280934333801,
+     "self_logp_drop": -0.013213056175724583,
+     "other_logp_drop": -0.00012746569588575587
+    },
+    "10": {
+     "self_exact": 0.8833333253860474,
+     "other_exact": 0.9366012944115533,
+     "self_logp_drop": 0.07418983582465444,
+     "other_logp_drop": -0.00258593388736619
+    },
+    "20": {
+     "self_exact": 0.6222222124536833,
+     "other_exact": 0.9341503183046976,
+     "self_logp_drop": 1.5483978769819562,
+     "other_logp_drop": -0.008979078351860922
+    },
+    "40": {
+     "self_exact": 0.3444444439891312,
+     "other_exact": 0.911928094095654,
+     "self_logp_drop": 4.6496259734138015,
+     "other_logp_drop": 0.05069186895750012
+    },
+    "80": {
+     "self_exact": 0.24444444249901506,
+     "other_exact": 0.8220588167508444,
+     "self_logp_drop": 8.051579083393639,
+     "other_logp_drop": 0.4662091416539206
+    },
+    "160": {
+     "self_exact": 0.14166666567325592,
+     "other_exact": 0.617320260239972,
+     "self_logp_drop": 11.480005510461828,
+     "other_logp_drop": 1.8798267423645578
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.911928094095654,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  },
+  "full_k1_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9388888875643412,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.00028929966598904383,
+     "other_logp_drop": -0.002051403959436963
+    },
+    "2": {
+     "self_exact": 0.9388888875643412,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.0026255323318764567,
+     "other_logp_drop": -0.004456802077280979
+    },
+    "5": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.015615489489088455,
+     "other_logp_drop": -0.012930668560632816
+    },
+    "10": {
+     "self_exact": 0.8638888895511627,
+     "other_exact": 0.9133333365122477,
+     "self_logp_drop": 0.33729580549212795,
+     "other_logp_drop": 0.10812246011725317
+    },
+    "20": {
+     "self_exact": 0.647222230831782,
+     "other_exact": 0.8900000055631002,
+     "self_logp_drop": 1.7930851106842358,
+     "other_logp_drop": 0.4444782128557563
+    },
+    "40": {
+     "self_exact": 0.3555555579562982,
+     "other_exact": 0.8133333375056585,
+     "self_logp_drop": 5.1136461297671,
+     "other_logp_drop": 0.9604174137348309
+    },
+    "80": {
+     "self_exact": 0.20000000080714622,
+     "other_exact": 0.6722222218910853,
+     "self_logp_drop": 8.334500432014465,
+     "other_logp_drop": 2.1346423029899597
+    },
+    "160": {
+     "self_exact": 0.13888888681928316,
+     "other_exact": 0.4338888892283042,
+     "self_logp_drop": 11.230370362599691,
+     "other_logp_drop": 4.243451078732808
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.8133333375056585,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  },
+  "hybrid_k1_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": 0.008819067084308093,
+     "other_logp_drop": 0.0050484698634439456
+    },
+    "2": {
+     "self_exact": 0.9333333373069763,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.014074914739467204,
+     "other_logp_drop": 0.010415749881455364
+    },
+    "5": {
+     "self_exact": 0.8305555631717046,
+     "other_exact": 0.8577777743339539,
+     "self_logp_drop": 0.8596254296135157,
+     "other_logp_drop": 0.4820715070721538
+    },
+    "10": {
+     "self_exact": 0.766666671882073,
+     "other_exact": 0.7844444463650385,
+     "self_logp_drop": 2.5797908026725054,
+     "other_logp_drop": 2.1087947221046
+    },
+    "20": {
+     "self_exact": 0.613888884584109,
+     "other_exact": 0.756111112733682,
+     "self_logp_drop": 3.6050681695342064,
+     "other_logp_drop": 2.8783611937154396
+    },
+    "40": {
+     "self_exact": 0.3222222166756789,
+     "other_exact": 0.6999999995653828,
+     "self_logp_drop": 6.406021734078725,
+     "other_logp_drop": 3.262337886573126
+    },
+    "80": {
+     "self_exact": 0.11666666840513547,
+     "other_exact": 0.6005555589993795,
+     "self_logp_drop": 10.054404973983765,
+     "other_logp_drop": 4.320658296967546
+    },
+    "160": {
+     "self_exact": 0.08611110846201579,
+     "other_exact": 0.4438888914883137,
+     "self_logp_drop": 13.294421752293905,
+     "other_logp_drop": 6.293375613788764
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.6999999995653828,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  }
+ }
+}

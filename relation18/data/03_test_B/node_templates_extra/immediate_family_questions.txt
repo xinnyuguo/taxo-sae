@@ -1,0 +1,10 @@
+Who are {FULL_NAME}'s parents and siblings?
+List {FULL_NAME}'s nearest family members.
+Name the people in {FULL_NAME}'s close family.
+Who belongs to {FULL_NAME}'s household family?
+Give the names of {FULL_NAME}'s mother, father and siblings.
+Who are {FULL_NAME}'s closest kin?
+Describe {FULL_NAME}'s close family.
+Who are {FULL_NAME}'s first-degree relatives?
+State the members of {FULL_NAME}'s nuclear family.
+Who is in {FULL_NAME}'s close family circle?

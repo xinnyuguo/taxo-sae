@@ -1,0 +1,49 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/ablation/no_ortho_cf/base_lm/final",
+ "steer_pos": "last",
+ "lm_input": "h2",
+ "steer_form": "slot_edit",
+ "summary": {
+  "alpha20.0_all": {
+   "n": 750,
+   "cls_hit": 0.8706666666666667,
+   "root_hit": 0.5173333333333333,
+   "exact": 0.0,
+   "recall": 0.07288888888888898,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 1.0
+  },
+  "alpha20.0_same": {
+   "n": 150,
+   "cls_hit": 0.64,
+   "root_hit": 1.0,
+   "exact": 0.0,
+   "recall": 0.17333333333333323,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 1.0
+  },
+  "alpha20.0_cross": {
+   "n": 600,
+   "cls_hit": 0.9283333333333333,
+   "root_hit": 0.39666666666666667,
+   "exact": 0.0,
+   "recall": 0.04777777777777774,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 1.0
+  }
+ }
+}

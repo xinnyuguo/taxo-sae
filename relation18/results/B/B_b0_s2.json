@@ -1,0 +1,66 @@
+{
+ "system": "full",
+ "k": 1,
+ "lm": "models/baseline0/s2/base_lm/final",
+ "abstain_tau": 0.1,
+ "avg": "macro",
+ "results": {
+  "leafQ_in-dist": {
+   "n": 800,
+   "leaf": 0.07831684640895167,
+   "class": 0.05759803921568627,
+   "root": 0.0
+  },
+  "leafQ_A_new_templates": {
+   "n": 800,
+   "leaf": 0.07958266052210153,
+   "class": 0.06161239539315602,
+   "root": 0.0
+  },
+  "leafQ_B_new_synonyms": {
+   "n": 800,
+   "leaf": 0.0849412882027743,
+   "class": 0.047619047619047616,
+   "root": 0.0
+  },
+  "leafQ_C_both_new": {
+   "n": 720,
+   "leaf": 0.09027777777777778,
+   "class": 0.05833333333333332,
+   "root": 0.0
+  },
+  "classQ_A_train_templates": {
+   "n": 240,
+   "class": 0.09999999999999999,
+   "root": 0.0,
+   "leaf_in_family": 0.16666666666666666
+  },
+  "classQ_B_new_templates": {
+   "n": 240,
+   "class": 0.16666666666666666,
+   "root": 0.0,
+   "leaf_in_family": 0.16666666666666666
+  },
+  "classQ_C_extra_templates": {
+   "n": 800,
+   "class": 0.14376833410529566,
+   "root": 0.0,
+   "leaf_in_family": 0.1475
+  },
+  "rootQ_A_train_templates": {
+   "n": 120,
+   "root": 0.0,
+   "class_in_family": 0.09166666666666666
+  },
+  "rootQ_B_new_templates": {
+   "n": 120,
+   "root": 0.0,
+   "class_in_family": 0.375
+  },
+  "rootQ_C_extra_templates": {
+   "n": 600,
+   "root": 0.0,
+   "class_in_family": 0.185
+  }
+ }
+}

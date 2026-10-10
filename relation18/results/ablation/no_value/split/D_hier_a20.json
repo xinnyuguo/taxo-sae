@@ -1,0 +1,49 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/ablation/no_value/base_lm/final",
+ "steer_pos": "last",
+ "lm_input": "h2",
+ "steer_form": "slot_edit",
+ "summary": {
+  "alpha20.0_all": {
+   "n": 750,
+   "cls_hit": 1.0,
+   "root_hit": 1.0,
+   "exact": 0.0026666666666666666,
+   "recall": 0.11511111111111096,
+   "top1": 0.028,
+   "chance": 0.0,
+   "ex_new": 0.0026666666666666666,
+   "ex_changed": 0.0026666666666666666,
+   "ex_strict": 0.0026666666666666666,
+   "src_stay": 0.972
+  },
+  "alpha20.0_same": {
+   "n": 150,
+   "cls_hit": 1.0,
+   "root_hit": 1.0,
+   "exact": 0.0,
+   "recall": 0.26444444444444454,
+   "top1": 0.14,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.86
+  },
+  "alpha20.0_cross": {
+   "n": 600,
+   "cls_hit": 1.0,
+   "root_hit": 1.0,
+   "exact": 0.0033333333333333335,
+   "recall": 0.07777777777777785,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0033333333333333335,
+   "ex_changed": 0.0033333333333333335,
+   "ex_strict": 0.0033333333333333335,
+   "src_stay": 1.0
+  }
+ }
+}

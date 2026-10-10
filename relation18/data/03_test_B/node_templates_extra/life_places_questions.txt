@@ -1,0 +1,10 @@
+Where was {FULL_NAME} born, and where did they pass away?
+Name the place of birth and the place of death of {FULL_NAME}.
+Which locations frame {FULL_NAME}'s lifetime?
+Where did {FULL_NAME}'s life begin and where did it end?
+Give the birth and death locations of {FULL_NAME}.
+Between which two places did {FULL_NAME}'s life unfold?
+Which places are linked to {FULL_NAME}'s birth and death?
+State where {FULL_NAME} came into the world and where they died.
+Where are the start and the end of {FULL_NAME}'s life located?
+Which places bookend {FULL_NAME}'s life?

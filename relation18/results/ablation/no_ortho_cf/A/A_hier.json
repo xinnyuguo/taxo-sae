@@ -1,0 +1,26 @@
+{
+ "system": "hier",
+ "lm": "models/ablation/no_ortho_cf/base_lm/final",
+ "results": {
+  "membership": {
+   "n": 159,
+   "acc": 1.0
+  },
+  "leaf": {
+   "n": 600,
+   "acc": 1.0
+  },
+  "class": {
+   "n": 360,
+   "exact_set": 0.15833333333333333,
+   "top1": 0.825,
+   "chance": 0.0
+  },
+  "root": {
+   "n": 180,
+   "exact_set": 0.07777777777777778,
+   "top1": 0.9055555555555556,
+   "chance": 0.0
+  }
+ }
+}

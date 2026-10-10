@@ -1,0 +1,293 @@
+{
+ "L9": {
+  "layer": 9,
+  "n_questions": 360,
+  "clean_exact": 0.9361110925674438,
+  "clean_logp": -0.5992955565452576,
+  "hier_leaf": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9388888743188646,
+     "other_exact": 0.936111095878813,
+     "self_logp_drop": 0.0013146295603800378,
+     "other_logp_drop": -0.0003478560321418121
+    },
+    "2": {
+     "self_exact": 0.9388888743188646,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": 0.0005592500646242923,
+     "other_logp_drop": -0.0007163066685886103
+    },
+    "5": {
+     "self_exact": 0.9361110991901822,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": -0.010902534067604898,
+     "other_logp_drop": -0.0019096361073833476
+    },
+    "10": {
+     "self_exact": 0.8833333320087857,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": 0.12964561727777538,
+     "other_logp_drop": -0.003975016687440479
+    },
+    "20": {
+     "self_exact": 0.5000000002069606,
+     "other_exact": 0.9354575044578977,
+     "self_logp_drop": 2.2333141242464385,
+     "other_logp_drop": -0.008361214562480908
+    },
+    "40": {
+     "self_exact": 0.10277777993016773,
+     "other_exact": 0.9315359360641904,
+     "self_logp_drop": 6.831123325559828,
+     "other_logp_drop": -0.005384422015696246
+    },
+    "80": {
+     "self_exact": 0.0,
+     "other_exact": 0.9052287571960025,
+     "self_logp_drop": 10.809341457155016,
+     "other_logp_drop": 0.09623568104466863
+    },
+    "160": {
+     "self_exact": 0.0,
+     "other_exact": 0.8356209165520139,
+     "self_logp_drop": 14.065346188015408,
+     "other_logp_drop": 0.5022843916796975
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.9315359360641904,
+   "s0": 80,
+   "other_exact_at_s0": 0.9052287571960025,
+   "other_exact_at_2s0": 0.8356209165520139
+  },
+  "hier_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0003625367923329274,
+     "other_logp_drop": -0.00010749261082310113
+    },
+    "2": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.0008930859621614218,
+     "other_logp_drop": -0.0002125802290796249
+    },
+    "5": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": -0.010916359877834717,
+     "other_logp_drop": -0.0005158686048313635
+    },
+    "10": {
+     "self_exact": 0.9166666666666666,
+     "other_exact": 0.9366666674613953,
+     "self_logp_drop": 0.007040433430423339,
+     "other_logp_drop": -0.0009948941436353682
+    },
+    "20": {
+     "self_exact": 0.6416666607062022,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 1.1774368205418189,
+     "other_logp_drop": -0.0019618341078360877
+    },
+    "40": {
+     "self_exact": 0.2666666740551591,
+     "other_exact": 0.9333333373069763,
+     "self_logp_drop": 4.276930431524913,
+     "other_logp_drop": 0.001170327013824135
+    },
+    "80": {
+     "self_exact": 0.02222222276031971,
+     "other_exact": 0.9133333464463552,
+     "self_logp_drop": 8.620513757069906,
+     "other_logp_drop": 0.060239756014198065
+    },
+    "160": {
+     "self_exact": 0.0,
+     "other_exact": 0.850000003973643,
+     "self_logp_drop": 12.197363138198853,
+     "other_logp_drop": 0.3551854396549364
+    }
+   },
+   "s50": 40,
+   "other_exact_at_s50": 0.9333333373069763,
+   "s0": 80,
+   "other_exact_at_s0": 0.9133333464463552,
+   "other_exact_at_2s0": 0.850000003973643
+  },
+  "full_k1_leaf": {
+   "curve": {
+    "1": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9362744953897264,
+     "self_logp_drop": -0.0007752974109583496,
+     "other_logp_drop": -0.0004620000555506623
+    },
+    "2": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9364378949006399,
+     "self_logp_drop": -0.0015589532065658001,
+     "other_logp_drop": -0.0009448812969720974
+    },
+    "5": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9362744987010956,
+     "self_logp_drop": -0.003889626335421781,
+     "other_logp_drop": -0.0023487367798225023
+    },
+    "10": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9338235159715017,
+     "self_logp_drop": 0.0002817146407525999,
+     "other_logp_drop": 0.006547153413218136
+    },
+    "20": {
+     "self_exact": 0.936111095878813,
+     "other_exact": 0.9338235159715017,
+     "self_logp_drop": 0.014961043363049006,
+     "other_logp_drop": 0.018583582452265546
+    },
+    "40": {
+     "self_exact": 0.9333333207501305,
+     "other_exact": 0.9320261312855614,
+     "self_logp_drop": 0.058095164721938396,
+     "other_logp_drop": 0.039661118765555635
+    },
+    "80": {
+     "self_exact": 0.930555542310079,
+     "other_exact": 0.926307178205914,
+     "self_logp_drop": 0.08394083962735345,
+     "other_logp_drop": 0.09570628471879496
+    },
+    "160": {
+     "self_exact": 0.9166666567325592,
+     "other_exact": 0.9138888749811385,
+     "self_logp_drop": 0.17087210963169733,
+     "other_logp_drop": 0.19764208938512537
+    }
+   },
+   "s50": null,
+   "other_exact_at_s50": null,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  },
+  "full_k1_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 6.622536315633217e-11
+    },
+    "2": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 6.622536315633217e-11
+    },
+    "5": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 2.648994357201673e-10
+    },
+    "10": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 5.960242299707375e-10
+    },
+    "20": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 1.4569478956616422e-09
+    },
+    "40": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 3.97348317212239e-09
+    },
+    "80": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 1.3575952806377245e-08
+    },
+    "160": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 7.01278158506587e-08
+    }
+   },
+   "s50": null,
+   "other_exact_at_s50": null,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  },
+  "hybrid_k1_class": {
+   "curve": {
+    "1": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "2": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "5": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "10": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "20": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "40": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "80": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    },
+    "160": {
+     "self_exact": 0.9361111124356588,
+     "other_exact": 0.9361111124356588,
+     "self_logp_drop": 0.0,
+     "other_logp_drop": 0.0
+    }
+   },
+   "s50": null,
+   "other_exact_at_s50": null,
+   "s0": null,
+   "other_exact_at_s0": null,
+   "other_exact_at_2s0": null
+  }
+ }
+}

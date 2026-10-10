@@ -1,0 +1,10 @@
+Where does {FULL_NAME} work?
+Who employs {FULL_NAME}?
+What is {FULL_NAME}'s occupation?
+Describe {FULL_NAME}'s line of work.
+What kind of work does {FULL_NAME} do?
+Give details of {FULL_NAME}'s employment.
+Which company and role does {FULL_NAME} have?
+How does {FULL_NAME} earn a living?
+State {FULL_NAME}'s employer and position.
+What is {FULL_NAME}'s current job?

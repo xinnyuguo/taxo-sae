@@ -1,0 +1,2653 @@
+{
+ "properties": [
+  "Ralph Stephen Powers",
+  "Mary Alexis Lin",
+  "Justin Bruce Huynh",
+  "Danielle Grace Gomez",
+  "Harold Vincent Gonzales",
+  "Sandra Michelle Cannon",
+  "James Mason Larson",
+  "Raymond Brandon Mays",
+  "Beverly Stephanie Molina",
+  "William Gregory Brady",
+  "Marilyn Denise Wilkerson",
+  "Patricia Nancy Randolph",
+  "Justin Jason Maynard",
+  "Amy Frances Crosby",
+  "Patricia Lauren Small",
+  "Amber Margaret Vaughn",
+  "Barbara Mary Knox",
+  "Raymond David Cole",
+  "Julie Doris Hess",
+  "Lori Brenda Green"
+ ],
+ "value_vocab": {
+  "Ralph Stephen Powers": [
+   "Auditor",
+   "Bachelor of Business Administration",
+   "Brazil",
+   "Citigroup",
+   "Guadalajara",
+   "Hospitality Management",
+   "Jalisco",
+   "Kathryn Joyce Powers",
+   "Linda Ann Powers",
+   "Marilyn Charlotte Abel",
+   "Mexico",
+   "Nancy Sharon Franklin",
+   "New York",
+   "Ralph Anthony Powers",
+   "Rio de Janeiro",
+   "Rio de Janeiro Province",
+   "Wesleyan University",
+   "William Michael Powers"
+  ],
+  "Mary Alexis Lin": [
+   "Alexander Stephen Lin",
+   "Associate of Arts",
+   "Australia",
+   "Brisbane",
+   "Canada",
+   "Carolyn Rachel Palmer",
+   "Chemistry",
+   "Database Administrator",
+   "David Roy Lin",
+   "Dennis Matthew Lin",
+   "Falls Church",
+   "Margaret Nancy Lin",
+   "Michelle Sharon Fitzpatrick",
+   "Northrop Grumman",
+   "Ontario",
+   "Queensland",
+   "Toronto",
+   "Wake Forest University"
+  ],
+  "Justin Bruce Huynh": [
+   "Berlin",
+   "Brandenburg",
+   "Data Science",
+   "Germany",
+   "India",
+   "Irving",
+   "Janet Carol Huynh",
+   "Justin Christopher Huynh",
+   "Maharashtra",
+   "Maria Brenda Lloyd",
+   "Master of Education",
+   "Mumbai",
+   "Research Scientist",
+   "Ryan Matthew Huynh",
+   "Sarah Barbara Reynolds",
+   "Texas Tech University",
+   "Timothy Randy Huynh",
+   "Vistra Corp."
+  ],
+  "Danielle Grace Gomez": [
+   "Amy Carol Lynch",
+   "Austin Roy Gomez",
+   "Berklee College of Music",
+   "Carl Jeffrey Gomez",
+   "DaVita",
+   "Danielle Katherine Watts",
+   "Denver",
+   "Fine Arts",
+   "Gabriel Elijah Gomez",
+   "Gauteng",
+   "Jessica Cynthia Gomez",
+   "Johannesburg",
+   "Master of Science",
+   "Seattle",
+   "South Africa",
+   "Teacher",
+   "United States",
+   "Washington"
+  ],
+  "Harold Vincent Gonzales": [
+   "Atlanta",
+   "Austin Eric Gonzales",
+   "Bobby Carl Gonzales",
+   "Cardiff",
+   "George Washington University",
+   "Human Resources Manager",
+   "Lauren Donna Glover",
+   "Management",
+   "Marie Frances Lancaster",
+   "Master of Engineering",
+   "Mexico",
+   "Mexico City",
+   "Ruth Janet Gonzales",
+   "Southern Company",
+   "State of Mexico",
+   "Tyler Joe Gonzales",
+   "United Kingdom",
+   "Wales"
+  ],
+  "Sandra Michelle Cannon": [
+   "Bachelor of Fine Arts",
+   "Canada",
+   "Chemical Engineering",
+   "Danielle Natalie Christian",
+   "Falls Church",
+   "Gerald John Cannon",
+   "Heather Maria Osborn",
+   "India",
+   "Jacqueline Angela Cannon",
+   "Jordan Thomas Cannon",
+   "Maharashtra",
+   "Martha Kayla Cannon",
+   "Northrop Grumman",
+   "Ontario",
+   "Pune",
+   "Stetson University",
+   "Supply Chain Analyst",
+   "Toronto"
+  ],
+  "James Mason Larson": [
+   "Agnes Scott College",
+   "Andrea Margaret Wilson",
+   "Argentina",
+   "Bradley Brian Larson",
+   "Buenos Aires",
+   "Buenos Aires Province",
+   "Dallas",
+   "Eugene Terry Larson",
+   "Flight Attendant",
+   "Japan",
+   "Jesse Ronald Larson",
+   "Master of Arts",
+   "Michelle Catherine Spencer",
+   "Oceanography",
+   "Osaka",
+   "Osaka Prefecture",
+   "Sophia Andrea Larson",
+   "Southwest Airlines"
+  ],
+  "Raymond Brandon Mays": [
+   "Akron",
+   "Alexis Martha Mays",
+   "Amanda Shirley Mays",
+   "Associate of Arts",
+   "Brazil",
+   "Business Analyst",
+   "Dental Hygiene",
+   "FirstEnergy",
+   "Harold Christopher Mays",
+   "Kimberly Amber Marsh",
+   "Lisa Brittany Mayer",
+   "Pennsylvania",
+   "Philadelphia",
+   "Philip Steven Mays",
+   "Sao Paulo",
+   "Sao Paulo Province",
+   "United States",
+   "University of Hawaii at Manoa"
+  ],
+  "Beverly Stephanie Molina": [
+   "Ashley Amy Molina",
+   "Catherine Victoria Alford",
+   "Chicago",
+   "Colby College",
+   "Debra Jennifer Oliver",
+   "Glasgow",
+   "Japan",
+   "Jeffrey Thomas Molina",
+   "Juan Logan Molina",
+   "Kathryn Laura Molina",
+   "Master of Education",
+   "Mondelez International",
+   "Scotland",
+   "Sociology",
+   "Software Engineer",
+   "Tokyo",
+   "Tokyo Prefecture",
+   "United Kingdom"
+  ],
+  "William Gregory Brady": [
+   "Alan Henry Brady",
+   "Capital Region",
+   "Chemical Engineer",
+   "Copenhagen",
+   "Denmark",
+   "Dylan Dylan Brady",
+   "FedEx",
+   "Horticulture",
+   "Joan Julie Durham",
+   "Judith Sharon Molina",
+   "Master of Engineering",
+   "Memphis",
+   "Noah Gary Brady",
+   "Seattle",
+   "Stephen Juan Brady",
+   "United States",
+   "University of Hawaii at Manoa",
+   "Washington"
+  ],
+  "Marilyn Denise Wilkerson": [
+   "Aaron Roy Wilkerson",
+   "Archer Daniels Midland (ADM)",
+   "Austin Zachary Wilkerson",
+   "Bachelor of Arts",
+   "Bangalore",
+   "Biomedical Engineering",
+   "Charles Douglas Wilkerson",
+   "Chicago",
+   "Debra Margaret Garcia",
+   "Florida",
+   "India",
+   "Journalist",
+   "Karnataka",
+   "Melissa Brenda Lynch",
+   "Orlando",
+   "Paul Nathan Wilkerson",
+   "United States",
+   "Wheaton College (Illinois)"
+  ],
+  "Patricia Nancy Randolph": [
+   "Bangkok",
+   "Bangkok Province",
+   "Brazil",
+   "Danaher Corporation",
+   "Dennis James Randolph",
+   "Doctor of Philosophy",
+   "Evelyn Sharon Wilkins",
+   "Heather Shirley Bradshaw",
+   "Jose Jeremy Randolph",
+   "Joseph Kevin Randolph",
+   "Lauren Pamela Randolph",
+   "Network Engineer",
+   "Pre-Veterinary Medicine",
+   "Sao Paulo",
+   "Sao Paulo Province",
+   "Thailand",
+   "Washington",
+   "Whittier College"
+  ],
+  "Justin Jason Maynard": [
+   "Andrea Jacqueline Maynard",
+   "Bachelor of Science",
+   "Cheryl Lisa Wells",
+   "Chief Technology Officer",
+   "Framingham",
+   "History",
+   "Jordan Thomas Maynard",
+   "Joseph Bobby Maynard",
+   "Kenneth Joseph Maynard",
+   "Lagos",
+   "Lagos Province",
+   "Muhlenberg College",
+   "Nigeria",
+   "Pennsylvania",
+   "Philadelphia",
+   "Samantha Jessica Boone",
+   "TJX Companies",
+   "United States"
+  ],
+  "Amy Frances Crosby": [
+   "Adam Alan Crosby",
+   "Associate of Arts",
+   "Austin",
+   "Baxter International",
+   "Deerfield",
+   "Eric Edward Crosby",
+   "Fine Arts",
+   "Frances Sara Mejia",
+   "Juan Joe Crosby",
+   "Juan Vincent Crosby",
+   "Kenya",
+   "Mechanical Engineer",
+   "Nairobi",
+   "Nairobi Province",
+   "Samantha Kathleen Glover",
+   "Texas",
+   "United States",
+   "University of Nevada, Las Vegas"
+  ],
+  "Patricia Lauren Small": [
+   "Actuarial Science",
+   "Bristol Myers Squibb",
+   "Cairo",
+   "Cairo Province",
+   "Charles Austin Small",
+   "Egypt",
+   "Frank Thomas Small",
+   "Gary Jack Small",
+   "India",
+   "Maharashtra",
+   "Master of Education",
+   "Mumbai",
+   "New York",
+   "Pamela Carol Le",
+   "Sharon Andrea Glover",
+   "Store Manager",
+   "Theresa Nicole Small",
+   "Villanova University"
+  ],
+  "Amber Margaret Vaughn": [
+   "Alexander Edward Vaughn",
+   "Anthony Bobby Vaughn",
+   "Argentina",
+   "Biology",
+   "Buenos Aires",
+   "Buenos Aires Province",
+   "California Institute of Technology",
+   "Carrier Global",
+   "Danielle Sophia Wheeler",
+   "Edward Vincent Vaughn",
+   "Jeremy Nicholas Vaughn",
+   "Master of Education",
+   "Oregon",
+   "Palm Beach Gardens",
+   "Pilot",
+   "Portland",
+   "Teresa Michelle Goodwin",
+   "United States"
+  ],
+  "Barbara Mary Knox": [
+   "Carol Charlotte Leon",
+   "Chipotle Mexican Grill",
+   "Communications",
+   "Compliance Officer",
+   "Cork",
+   "Gabriel Eric Knox",
+   "Ho Chi Minh City",
+   "Ho Chi Minh City Province",
+   "Ireland",
+   "John Mark Knox",
+   "Joyce Ann Knox",
+   "Karen Beverly Arias",
+   "Master of Science",
+   "Munster",
+   "Newport Beach",
+   "Vietnam",
+   "Wheaton College (Massachusetts)",
+   "William Jack Knox"
+  ],
+  "Raymond David Cole": [
+   "Alberta",
+   "Associate of Arts",
+   "Bobby Joshua Cole",
+   "Canada",
+   "Carolyn Ella Mullen",
+   "Dorothy Julie Cole",
+   "Edmonton",
+   "France",
+   "Freddie Mac",
+   "Iowa State University",
+   "Juan Anthony Cole",
+   "Julie Alice Cole",
+   "Kathleen Carol Humphrey",
+   "Marseille",
+   "McLean",
+   "Provence-Alpes-Cote d'Azur",
+   "Senior Software Engineer",
+   "Statistics"
+  ],
+  "Julie Doris Hess": [
+   "Australia",
+   "Brisbane",
+   "Cynthia Laura Hess",
+   "Freddie Mac",
+   "History",
+   "Isabella Margaret Jackson",
+   "Joan Laura Hess",
+   "Jonathan Kenneth Hess",
+   "Kenyon College",
+   "Master of Arts",
+   "McLean",
+   "Queensland",
+   "Rachel Helen Velasquez",
+   "Ronald Peter Hess",
+   "Senior Software Engineer",
+   "Seoul",
+   "Seoul Capital Area",
+   "South Korea"
+  ],
+  "Lori Brenda Green": [
+   "Aaron Albert Green",
+   "Arthur Eric Green",
+   "Auvergne-Rhone-Alpes",
+   "Bangalore",
+   "Chemical Engineering",
+   "Elizabeth Margaret Osborn",
+   "Eric Brian Green",
+   "France",
+   "Houston",
+   "India",
+   "Karnataka",
+   "Lyon",
+   "Martha Christine Correa",
+   "Master of Science",
+   "Network Engineer",
+   "Roy Benjamin Green",
+   "Sysco",
+   "University of Vermont"
+  ]
+ },
+ "layers": {
+  "layer1": {
+   "birth_city": {
+    "Ralph Stephen Powers": [
+     "Rio de Janeiro"
+    ],
+    "Mary Alexis Lin": [
+     "Brisbane"
+    ],
+    "Justin Bruce Huynh": [
+     "Mumbai"
+    ],
+    "Danielle Grace Gomez": [
+     "Seattle"
+    ],
+    "Harold Vincent Gonzales": [
+     "Cardiff"
+    ],
+    "Sandra Michelle Cannon": [
+     "Pune"
+    ],
+    "James Mason Larson": [
+     "Osaka"
+    ],
+    "Raymond Brandon Mays": [
+     "Sao Paulo"
+    ],
+    "Beverly Stephanie Molina": [
+     "Tokyo"
+    ],
+    "William Gregory Brady": [
+     "Seattle"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Bangalore"
+    ],
+    "Patricia Nancy Randolph": [
+     "Bangkok"
+    ],
+    "Justin Jason Maynard": [
+     "Philadelphia"
+    ],
+    "Amy Frances Crosby": [
+     "Nairobi"
+    ],
+    "Patricia Lauren Small": [
+     "Mumbai"
+    ],
+    "Amber Margaret Vaughn": [
+     "Portland"
+    ],
+    "Barbara Mary Knox": [
+     "Cork"
+    ],
+    "Raymond David Cole": [
+     "Marseille"
+    ],
+    "Julie Doris Hess": [
+     "Seoul"
+    ],
+    "Lori Brenda Green": [
+     "Lyon"
+    ]
+   },
+   "birth_state": {
+    "Ralph Stephen Powers": [
+     "Rio de Janeiro Province"
+    ],
+    "Mary Alexis Lin": [
+     "Queensland"
+    ],
+    "Justin Bruce Huynh": [
+     "Maharashtra"
+    ],
+    "Danielle Grace Gomez": [
+     "Washington"
+    ],
+    "Harold Vincent Gonzales": [
+     "Wales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Maharashtra"
+    ],
+    "James Mason Larson": [
+     "Osaka Prefecture"
+    ],
+    "Raymond Brandon Mays": [
+     "Sao Paulo Province"
+    ],
+    "Beverly Stephanie Molina": [
+     "Tokyo Prefecture"
+    ],
+    "William Gregory Brady": [
+     "Washington"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Karnataka"
+    ],
+    "Patricia Nancy Randolph": [
+     "Bangkok Province"
+    ],
+    "Justin Jason Maynard": [
+     "Pennsylvania"
+    ],
+    "Amy Frances Crosby": [
+     "Nairobi Province"
+    ],
+    "Patricia Lauren Small": [
+     "Maharashtra"
+    ],
+    "Amber Margaret Vaughn": [
+     "Oregon"
+    ],
+    "Barbara Mary Knox": [
+     "Munster"
+    ],
+    "Raymond David Cole": [
+     "Provence-Alpes-Cote d'Azur"
+    ],
+    "Julie Doris Hess": [
+     "Seoul Capital Area"
+    ],
+    "Lori Brenda Green": [
+     "Auvergne-Rhone-Alpes"
+    ]
+   },
+   "birth_country": {
+    "Ralph Stephen Powers": [
+     "Brazil"
+    ],
+    "Mary Alexis Lin": [
+     "Australia"
+    ],
+    "Justin Bruce Huynh": [
+     "India"
+    ],
+    "Danielle Grace Gomez": [
+     "United States"
+    ],
+    "Harold Vincent Gonzales": [
+     "United Kingdom"
+    ],
+    "Sandra Michelle Cannon": [
+     "India"
+    ],
+    "James Mason Larson": [
+     "Japan"
+    ],
+    "Raymond Brandon Mays": [
+     "Brazil"
+    ],
+    "Beverly Stephanie Molina": [
+     "Japan"
+    ],
+    "William Gregory Brady": [
+     "United States"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "India"
+    ],
+    "Patricia Nancy Randolph": [
+     "Thailand"
+    ],
+    "Justin Jason Maynard": [
+     "United States"
+    ],
+    "Amy Frances Crosby": [
+     "Kenya"
+    ],
+    "Patricia Lauren Small": [
+     "India"
+    ],
+    "Amber Margaret Vaughn": [
+     "United States"
+    ],
+    "Barbara Mary Knox": [
+     "Ireland"
+    ],
+    "Raymond David Cole": [
+     "France"
+    ],
+    "Julie Doris Hess": [
+     "South Korea"
+    ],
+    "Lori Brenda Green": [
+     "France"
+    ]
+   },
+   "death_city": {
+    "Ralph Stephen Powers": [
+     "Guadalajara"
+    ],
+    "Mary Alexis Lin": [
+     "Toronto"
+    ],
+    "Justin Bruce Huynh": [
+     "Berlin"
+    ],
+    "Danielle Grace Gomez": [
+     "Johannesburg"
+    ],
+    "Harold Vincent Gonzales": [
+     "Mexico City"
+    ],
+    "Sandra Michelle Cannon": [
+     "Toronto"
+    ],
+    "James Mason Larson": [
+     "Buenos Aires"
+    ],
+    "Raymond Brandon Mays": [
+     "Philadelphia"
+    ],
+    "Beverly Stephanie Molina": [
+     "Glasgow"
+    ],
+    "William Gregory Brady": [
+     "Copenhagen"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Orlando"
+    ],
+    "Patricia Nancy Randolph": [
+     "Sao Paulo"
+    ],
+    "Justin Jason Maynard": [
+     "Lagos"
+    ],
+    "Amy Frances Crosby": [
+     "Austin"
+    ],
+    "Patricia Lauren Small": [
+     "Cairo"
+    ],
+    "Amber Margaret Vaughn": [
+     "Buenos Aires"
+    ],
+    "Barbara Mary Knox": [
+     "Ho Chi Minh City"
+    ],
+    "Raymond David Cole": [
+     "Edmonton"
+    ],
+    "Julie Doris Hess": [
+     "Brisbane"
+    ],
+    "Lori Brenda Green": [
+     "Bangalore"
+    ]
+   },
+   "death_state": {
+    "Ralph Stephen Powers": [
+     "Jalisco"
+    ],
+    "Mary Alexis Lin": [
+     "Ontario"
+    ],
+    "Justin Bruce Huynh": [
+     "Brandenburg"
+    ],
+    "Danielle Grace Gomez": [
+     "Gauteng"
+    ],
+    "Harold Vincent Gonzales": [
+     "State of Mexico"
+    ],
+    "Sandra Michelle Cannon": [
+     "Ontario"
+    ],
+    "James Mason Larson": [
+     "Buenos Aires Province"
+    ],
+    "Raymond Brandon Mays": [
+     "Pennsylvania"
+    ],
+    "Beverly Stephanie Molina": [
+     "Scotland"
+    ],
+    "William Gregory Brady": [
+     "Capital Region"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Florida"
+    ],
+    "Patricia Nancy Randolph": [
+     "Sao Paulo Province"
+    ],
+    "Justin Jason Maynard": [
+     "Lagos Province"
+    ],
+    "Amy Frances Crosby": [
+     "Texas"
+    ],
+    "Patricia Lauren Small": [
+     "Cairo Province"
+    ],
+    "Amber Margaret Vaughn": [
+     "Buenos Aires Province"
+    ],
+    "Barbara Mary Knox": [
+     "Ho Chi Minh City Province"
+    ],
+    "Raymond David Cole": [
+     "Alberta"
+    ],
+    "Julie Doris Hess": [
+     "Queensland"
+    ],
+    "Lori Brenda Green": [
+     "Karnataka"
+    ]
+   },
+   "death_country": {
+    "Ralph Stephen Powers": [
+     "Mexico"
+    ],
+    "Mary Alexis Lin": [
+     "Canada"
+    ],
+    "Justin Bruce Huynh": [
+     "Germany"
+    ],
+    "Danielle Grace Gomez": [
+     "South Africa"
+    ],
+    "Harold Vincent Gonzales": [
+     "Mexico"
+    ],
+    "Sandra Michelle Cannon": [
+     "Canada"
+    ],
+    "James Mason Larson": [
+     "Argentina"
+    ],
+    "Raymond Brandon Mays": [
+     "United States"
+    ],
+    "Beverly Stephanie Molina": [
+     "United Kingdom"
+    ],
+    "William Gregory Brady": [
+     "Denmark"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "United States"
+    ],
+    "Patricia Nancy Randolph": [
+     "Brazil"
+    ],
+    "Justin Jason Maynard": [
+     "Nigeria"
+    ],
+    "Amy Frances Crosby": [
+     "United States"
+    ],
+    "Patricia Lauren Small": [
+     "Egypt"
+    ],
+    "Amber Margaret Vaughn": [
+     "Argentina"
+    ],
+    "Barbara Mary Knox": [
+     "Vietnam"
+    ],
+    "Raymond David Cole": [
+     "Canada"
+    ],
+    "Julie Doris Hess": [
+     "Australia"
+    ],
+    "Lori Brenda Green": [
+     "India"
+    ]
+   },
+   "employer": {
+    "Ralph Stephen Powers": [
+     "Citigroup"
+    ],
+    "Mary Alexis Lin": [
+     "Northrop Grumman"
+    ],
+    "Justin Bruce Huynh": [
+     "Vistra Corp."
+    ],
+    "Danielle Grace Gomez": [
+     "DaVita"
+    ],
+    "Harold Vincent Gonzales": [
+     "Southern Company"
+    ],
+    "Sandra Michelle Cannon": [
+     "Northrop Grumman"
+    ],
+    "James Mason Larson": [
+     "Southwest Airlines"
+    ],
+    "Raymond Brandon Mays": [
+     "FirstEnergy"
+    ],
+    "Beverly Stephanie Molina": [
+     "Mondelez International"
+    ],
+    "William Gregory Brady": [
+     "FedEx"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Archer Daniels Midland (ADM)"
+    ],
+    "Patricia Nancy Randolph": [
+     "Danaher Corporation"
+    ],
+    "Justin Jason Maynard": [
+     "TJX Companies"
+    ],
+    "Amy Frances Crosby": [
+     "Baxter International"
+    ],
+    "Patricia Lauren Small": [
+     "Bristol Myers Squibb"
+    ],
+    "Amber Margaret Vaughn": [
+     "Carrier Global"
+    ],
+    "Barbara Mary Knox": [
+     "Chipotle Mexican Grill"
+    ],
+    "Raymond David Cole": [
+     "Freddie Mac"
+    ],
+    "Julie Doris Hess": [
+     "Freddie Mac"
+    ],
+    "Lori Brenda Green": [
+     "Sysco"
+    ]
+   },
+   "position": {
+    "Ralph Stephen Powers": [
+     "Auditor"
+    ],
+    "Mary Alexis Lin": [
+     "Database Administrator"
+    ],
+    "Justin Bruce Huynh": [
+     "Research Scientist"
+    ],
+    "Danielle Grace Gomez": [
+     "Teacher"
+    ],
+    "Harold Vincent Gonzales": [
+     "Human Resources Manager"
+    ],
+    "Sandra Michelle Cannon": [
+     "Supply Chain Analyst"
+    ],
+    "James Mason Larson": [
+     "Flight Attendant"
+    ],
+    "Raymond Brandon Mays": [
+     "Business Analyst"
+    ],
+    "Beverly Stephanie Molina": [
+     "Software Engineer"
+    ],
+    "William Gregory Brady": [
+     "Chemical Engineer"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Journalist"
+    ],
+    "Patricia Nancy Randolph": [
+     "Network Engineer"
+    ],
+    "Justin Jason Maynard": [
+     "Chief Technology Officer"
+    ],
+    "Amy Frances Crosby": [
+     "Mechanical Engineer"
+    ],
+    "Patricia Lauren Small": [
+     "Store Manager"
+    ],
+    "Amber Margaret Vaughn": [
+     "Pilot"
+    ],
+    "Barbara Mary Knox": [
+     "Compliance Officer"
+    ],
+    "Raymond David Cole": [
+     "Senior Software Engineer"
+    ],
+    "Julie Doris Hess": [
+     "Senior Software Engineer"
+    ],
+    "Lori Brenda Green": [
+     "Network Engineer"
+    ]
+   },
+   "work_city": {
+    "Ralph Stephen Powers": [
+     "New York"
+    ],
+    "Mary Alexis Lin": [
+     "Falls Church"
+    ],
+    "Justin Bruce Huynh": [
+     "Irving"
+    ],
+    "Danielle Grace Gomez": [
+     "Denver"
+    ],
+    "Harold Vincent Gonzales": [
+     "Atlanta"
+    ],
+    "Sandra Michelle Cannon": [
+     "Falls Church"
+    ],
+    "James Mason Larson": [
+     "Dallas"
+    ],
+    "Raymond Brandon Mays": [
+     "Akron"
+    ],
+    "Beverly Stephanie Molina": [
+     "Chicago"
+    ],
+    "William Gregory Brady": [
+     "Memphis"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Chicago"
+    ],
+    "Patricia Nancy Randolph": [
+     "Washington"
+    ],
+    "Justin Jason Maynard": [
+     "Framingham"
+    ],
+    "Amy Frances Crosby": [
+     "Deerfield"
+    ],
+    "Patricia Lauren Small": [
+     "New York"
+    ],
+    "Amber Margaret Vaughn": [
+     "Palm Beach Gardens"
+    ],
+    "Barbara Mary Knox": [
+     "Newport Beach"
+    ],
+    "Raymond David Cole": [
+     "McLean"
+    ],
+    "Julie Doris Hess": [
+     "McLean"
+    ],
+    "Lori Brenda Green": [
+     "Houston"
+    ]
+   },
+   "major": {
+    "Ralph Stephen Powers": [
+     "Hospitality Management"
+    ],
+    "Mary Alexis Lin": [
+     "Chemistry"
+    ],
+    "Justin Bruce Huynh": [
+     "Data Science"
+    ],
+    "Danielle Grace Gomez": [
+     "Fine Arts"
+    ],
+    "Harold Vincent Gonzales": [
+     "Management"
+    ],
+    "Sandra Michelle Cannon": [
+     "Chemical Engineering"
+    ],
+    "James Mason Larson": [
+     "Oceanography"
+    ],
+    "Raymond Brandon Mays": [
+     "Dental Hygiene"
+    ],
+    "Beverly Stephanie Molina": [
+     "Sociology"
+    ],
+    "William Gregory Brady": [
+     "Horticulture"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Biomedical Engineering"
+    ],
+    "Patricia Nancy Randolph": [
+     "Pre-Veterinary Medicine"
+    ],
+    "Justin Jason Maynard": [
+     "History"
+    ],
+    "Amy Frances Crosby": [
+     "Fine Arts"
+    ],
+    "Patricia Lauren Small": [
+     "Actuarial Science"
+    ],
+    "Amber Margaret Vaughn": [
+     "Biology"
+    ],
+    "Barbara Mary Knox": [
+     "Communications"
+    ],
+    "Raymond David Cole": [
+     "Statistics"
+    ],
+    "Julie Doris Hess": [
+     "History"
+    ],
+    "Lori Brenda Green": [
+     "Chemical Engineering"
+    ]
+   },
+   "degree": {
+    "Ralph Stephen Powers": [
+     "Bachelor of Business Administration"
+    ],
+    "Mary Alexis Lin": [
+     "Associate of Arts"
+    ],
+    "Justin Bruce Huynh": [
+     "Master of Education"
+    ],
+    "Danielle Grace Gomez": [
+     "Master of Science"
+    ],
+    "Harold Vincent Gonzales": [
+     "Master of Engineering"
+    ],
+    "Sandra Michelle Cannon": [
+     "Bachelor of Fine Arts"
+    ],
+    "James Mason Larson": [
+     "Master of Arts"
+    ],
+    "Raymond Brandon Mays": [
+     "Associate of Arts"
+    ],
+    "Beverly Stephanie Molina": [
+     "Master of Education"
+    ],
+    "William Gregory Brady": [
+     "Master of Engineering"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Bachelor of Arts"
+    ],
+    "Patricia Nancy Randolph": [
+     "Doctor of Philosophy"
+    ],
+    "Justin Jason Maynard": [
+     "Bachelor of Science"
+    ],
+    "Amy Frances Crosby": [
+     "Associate of Arts"
+    ],
+    "Patricia Lauren Small": [
+     "Master of Education"
+    ],
+    "Amber Margaret Vaughn": [
+     "Master of Education"
+    ],
+    "Barbara Mary Knox": [
+     "Master of Science"
+    ],
+    "Raymond David Cole": [
+     "Associate of Arts"
+    ],
+    "Julie Doris Hess": [
+     "Master of Arts"
+    ],
+    "Lori Brenda Green": [
+     "Master of Science"
+    ]
+   },
+   "university": {
+    "Ralph Stephen Powers": [
+     "Wesleyan University"
+    ],
+    "Mary Alexis Lin": [
+     "Wake Forest University"
+    ],
+    "Justin Bruce Huynh": [
+     "Texas Tech University"
+    ],
+    "Danielle Grace Gomez": [
+     "Berklee College of Music"
+    ],
+    "Harold Vincent Gonzales": [
+     "George Washington University"
+    ],
+    "Sandra Michelle Cannon": [
+     "Stetson University"
+    ],
+    "James Mason Larson": [
+     "Agnes Scott College"
+    ],
+    "Raymond Brandon Mays": [
+     "University of Hawaii at Manoa"
+    ],
+    "Beverly Stephanie Molina": [
+     "Colby College"
+    ],
+    "William Gregory Brady": [
+     "University of Hawaii at Manoa"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Wheaton College (Illinois)"
+    ],
+    "Patricia Nancy Randolph": [
+     "Whittier College"
+    ],
+    "Justin Jason Maynard": [
+     "Muhlenberg College"
+    ],
+    "Amy Frances Crosby": [
+     "University of Nevada, Las Vegas"
+    ],
+    "Patricia Lauren Small": [
+     "Villanova University"
+    ],
+    "Amber Margaret Vaughn": [
+     "California Institute of Technology"
+    ],
+    "Barbara Mary Knox": [
+     "Wheaton College (Massachusetts)"
+    ],
+    "Raymond David Cole": [
+     "Iowa State University"
+    ],
+    "Julie Doris Hess": [
+     "Kenyon College"
+    ],
+    "Lori Brenda Green": [
+     "University of Vermont"
+    ]
+   },
+   "father": {
+    "Ralph Stephen Powers": [
+     "Ralph Anthony Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Alexander Stephen Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Timothy Randy Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Austin Roy Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Tyler Joe Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Jordan Thomas Cannon"
+    ],
+    "James Mason Larson": [
+     "Bradley Brian Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Harold Christopher Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Juan Logan Molina"
+    ],
+    "William Gregory Brady": [
+     "Stephen Juan Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Aaron Roy Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Jose Jeremy Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Joseph Bobby Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Adam Alan Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Charles Austin Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Anthony Bobby Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "Gabriel Eric Knox"
+    ],
+    "Raymond David Cole": [
+     "Juan Anthony Cole"
+    ],
+    "Julie Doris Hess": [
+     "Jonathan Kenneth Hess"
+    ],
+    "Lori Brenda Green": [
+     "Aaron Albert Green"
+    ]
+   },
+   "mother": {
+    "Ralph Stephen Powers": [
+     "Marilyn Charlotte Abel"
+    ],
+    "Mary Alexis Lin": [
+     "Michelle Sharon Fitzpatrick"
+    ],
+    "Justin Bruce Huynh": [
+     "Sarah Barbara Reynolds"
+    ],
+    "Danielle Grace Gomez": [
+     "Amy Carol Lynch"
+    ],
+    "Harold Vincent Gonzales": [
+     "Lauren Donna Glover"
+    ],
+    "Sandra Michelle Cannon": [
+     "Heather Maria Osborn"
+    ],
+    "James Mason Larson": [
+     "Andrea Margaret Wilson"
+    ],
+    "Raymond Brandon Mays": [
+     "Lisa Brittany Mayer"
+    ],
+    "Beverly Stephanie Molina": [
+     "Catherine Victoria Alford"
+    ],
+    "William Gregory Brady": [
+     "Judith Sharon Molina"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Debra Margaret Garcia"
+    ],
+    "Patricia Nancy Randolph": [
+     "Evelyn Sharon Wilkins"
+    ],
+    "Justin Jason Maynard": [
+     "Samantha Jessica Boone"
+    ],
+    "Amy Frances Crosby": [
+     "Frances Sara Mejia"
+    ],
+    "Patricia Lauren Small": [
+     "Sharon Andrea Glover"
+    ],
+    "Amber Margaret Vaughn": [
+     "Teresa Michelle Goodwin"
+    ],
+    "Barbara Mary Knox": [
+     "Carol Charlotte Leon"
+    ],
+    "Raymond David Cole": [
+     "Carolyn Ella Mullen"
+    ],
+    "Julie Doris Hess": [
+     "Isabella Margaret Jackson"
+    ],
+    "Lori Brenda Green": [
+     "Martha Christine Correa"
+    ]
+   },
+   "sibling": {
+    "Ralph Stephen Powers": [
+     "Kathryn Joyce Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Margaret Nancy Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Justin Christopher Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Gabriel Elijah Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Bobby Carl Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Jacqueline Angela Cannon"
+    ],
+    "James Mason Larson": [
+     "Sophia Andrea Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Alexis Martha Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Ashley Amy Molina"
+    ],
+    "William Gregory Brady": [
+     "Dylan Dylan Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Austin Zachary Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Joseph Kevin Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Andrea Jacqueline Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Eric Edward Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Frank Thomas Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Edward Vincent Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "Joyce Ann Knox"
+    ],
+    "Raymond David Cole": [
+     "Julie Alice Cole"
+    ],
+    "Julie Doris Hess": [
+     "Joan Laura Hess"
+    ],
+    "Lori Brenda Green": [
+     "Eric Brian Green"
+    ]
+   },
+   "grandfather": {
+    "Ralph Stephen Powers": [
+     "William Michael Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Dennis Matthew Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Ryan Matthew Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Carl Jeffrey Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Austin Eric Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Gerald John Cannon"
+    ],
+    "James Mason Larson": [
+     "Jesse Ronald Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Philip Steven Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Jeffrey Thomas Molina"
+    ],
+    "William Gregory Brady": [
+     "Noah Gary Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Paul Nathan Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Dennis James Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Kenneth Joseph Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Juan Vincent Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Gary Jack Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Alexander Edward Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "John Mark Knox"
+    ],
+    "Raymond David Cole": [
+     "Bobby Joshua Cole"
+    ],
+    "Julie Doris Hess": [
+     "Ronald Peter Hess"
+    ],
+    "Lori Brenda Green": [
+     "Arthur Eric Green"
+    ]
+   },
+   "grandmother": {
+    "Ralph Stephen Powers": [
+     "Nancy Sharon Franklin"
+    ],
+    "Mary Alexis Lin": [
+     "Carolyn Rachel Palmer"
+    ],
+    "Justin Bruce Huynh": [
+     "Maria Brenda Lloyd"
+    ],
+    "Danielle Grace Gomez": [
+     "Danielle Katherine Watts"
+    ],
+    "Harold Vincent Gonzales": [
+     "Marie Frances Lancaster"
+    ],
+    "Sandra Michelle Cannon": [
+     "Danielle Natalie Christian"
+    ],
+    "James Mason Larson": [
+     "Michelle Catherine Spencer"
+    ],
+    "Raymond Brandon Mays": [
+     "Kimberly Amber Marsh"
+    ],
+    "Beverly Stephanie Molina": [
+     "Debra Jennifer Oliver"
+    ],
+    "William Gregory Brady": [
+     "Joan Julie Durham"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Melissa Brenda Lynch"
+    ],
+    "Patricia Nancy Randolph": [
+     "Heather Shirley Bradshaw"
+    ],
+    "Justin Jason Maynard": [
+     "Cheryl Lisa Wells"
+    ],
+    "Amy Frances Crosby": [
+     "Samantha Kathleen Glover"
+    ],
+    "Patricia Lauren Small": [
+     "Pamela Carol Le"
+    ],
+    "Amber Margaret Vaughn": [
+     "Danielle Sophia Wheeler"
+    ],
+    "Barbara Mary Knox": [
+     "Karen Beverly Arias"
+    ],
+    "Raymond David Cole": [
+     "Kathleen Carol Humphrey"
+    ],
+    "Julie Doris Hess": [
+     "Rachel Helen Velasquez"
+    ],
+    "Lori Brenda Green": [
+     "Elizabeth Margaret Osborn"
+    ]
+   },
+   "cousin": {
+    "Ralph Stephen Powers": [
+     "Linda Ann Powers"
+    ],
+    "Mary Alexis Lin": [
+     "David Roy Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Janet Carol Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Jessica Cynthia Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Ruth Janet Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Martha Kayla Cannon"
+    ],
+    "James Mason Larson": [
+     "Eugene Terry Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Amanda Shirley Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Kathryn Laura Molina"
+    ],
+    "William Gregory Brady": [
+     "Alan Henry Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Charles Douglas Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Lauren Pamela Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Jordan Thomas Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Juan Joe Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Theresa Nicole Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Jeremy Nicholas Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "William Jack Knox"
+    ],
+    "Raymond David Cole": [
+     "Dorothy Julie Cole"
+    ],
+    "Julie Doris Hess": [
+     "Cynthia Laura Hess"
+    ],
+    "Lori Brenda Green": [
+     "Roy Benjamin Green"
+    ]
+   }
+  },
+  "layer2": {
+   "place_of_birth": {
+    "Ralph Stephen Powers": [
+     "Rio de Janeiro",
+     "Rio de Janeiro Province",
+     "Brazil"
+    ],
+    "Mary Alexis Lin": [
+     "Brisbane",
+     "Queensland",
+     "Australia"
+    ],
+    "Justin Bruce Huynh": [
+     "Mumbai",
+     "Maharashtra",
+     "India"
+    ],
+    "Danielle Grace Gomez": [
+     "Seattle",
+     "Washington",
+     "United States"
+    ],
+    "Harold Vincent Gonzales": [
+     "Cardiff",
+     "Wales",
+     "United Kingdom"
+    ],
+    "Sandra Michelle Cannon": [
+     "Pune",
+     "Maharashtra",
+     "India"
+    ],
+    "James Mason Larson": [
+     "Osaka",
+     "Osaka Prefecture",
+     "Japan"
+    ],
+    "Raymond Brandon Mays": [
+     "Sao Paulo",
+     "Sao Paulo Province",
+     "Brazil"
+    ],
+    "Beverly Stephanie Molina": [
+     "Tokyo",
+     "Tokyo Prefecture",
+     "Japan"
+    ],
+    "William Gregory Brady": [
+     "Seattle",
+     "Washington",
+     "United States"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Bangalore",
+     "Karnataka",
+     "India"
+    ],
+    "Patricia Nancy Randolph": [
+     "Bangkok",
+     "Bangkok Province",
+     "Thailand"
+    ],
+    "Justin Jason Maynard": [
+     "Philadelphia",
+     "Pennsylvania",
+     "United States"
+    ],
+    "Amy Frances Crosby": [
+     "Nairobi",
+     "Nairobi Province",
+     "Kenya"
+    ],
+    "Patricia Lauren Small": [
+     "Mumbai",
+     "Maharashtra",
+     "India"
+    ],
+    "Amber Margaret Vaughn": [
+     "Portland",
+     "Oregon",
+     "United States"
+    ],
+    "Barbara Mary Knox": [
+     "Cork",
+     "Munster",
+     "Ireland"
+    ],
+    "Raymond David Cole": [
+     "Marseille",
+     "Provence-Alpes-Cote d'Azur",
+     "France"
+    ],
+    "Julie Doris Hess": [
+     "Seoul",
+     "Seoul Capital Area",
+     "South Korea"
+    ],
+    "Lori Brenda Green": [
+     "Lyon",
+     "Auvergne-Rhone-Alpes",
+     "France"
+    ]
+   },
+   "place_of_death": {
+    "Ralph Stephen Powers": [
+     "Guadalajara",
+     "Jalisco",
+     "Mexico"
+    ],
+    "Mary Alexis Lin": [
+     "Toronto",
+     "Ontario",
+     "Canada"
+    ],
+    "Justin Bruce Huynh": [
+     "Berlin",
+     "Brandenburg",
+     "Germany"
+    ],
+    "Danielle Grace Gomez": [
+     "Johannesburg",
+     "Gauteng",
+     "South Africa"
+    ],
+    "Harold Vincent Gonzales": [
+     "Mexico City",
+     "State of Mexico",
+     "Mexico"
+    ],
+    "Sandra Michelle Cannon": [
+     "Toronto",
+     "Ontario",
+     "Canada"
+    ],
+    "James Mason Larson": [
+     "Buenos Aires",
+     "Buenos Aires Province",
+     "Argentina"
+    ],
+    "Raymond Brandon Mays": [
+     "Philadelphia",
+     "Pennsylvania",
+     "United States"
+    ],
+    "Beverly Stephanie Molina": [
+     "Glasgow",
+     "Scotland",
+     "United Kingdom"
+    ],
+    "William Gregory Brady": [
+     "Copenhagen",
+     "Capital Region",
+     "Denmark"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Orlando",
+     "Florida",
+     "United States"
+    ],
+    "Patricia Nancy Randolph": [
+     "Sao Paulo",
+     "Sao Paulo Province",
+     "Brazil"
+    ],
+    "Justin Jason Maynard": [
+     "Lagos",
+     "Lagos Province",
+     "Nigeria"
+    ],
+    "Amy Frances Crosby": [
+     "Austin",
+     "Texas",
+     "United States"
+    ],
+    "Patricia Lauren Small": [
+     "Cairo",
+     "Cairo Province",
+     "Egypt"
+    ],
+    "Amber Margaret Vaughn": [
+     "Buenos Aires",
+     "Buenos Aires Province",
+     "Argentina"
+    ],
+    "Barbara Mary Knox": [
+     "Ho Chi Minh City",
+     "Ho Chi Minh City Province",
+     "Vietnam"
+    ],
+    "Raymond David Cole": [
+     "Edmonton",
+     "Alberta",
+     "Canada"
+    ],
+    "Julie Doris Hess": [
+     "Brisbane",
+     "Queensland",
+     "Australia"
+    ],
+    "Lori Brenda Green": [
+     "Bangalore",
+     "Karnataka",
+     "India"
+    ]
+   },
+   "employment": {
+    "Ralph Stephen Powers": [
+     "Citigroup",
+     "Auditor",
+     "New York"
+    ],
+    "Mary Alexis Lin": [
+     "Northrop Grumman",
+     "Database Administrator",
+     "Falls Church"
+    ],
+    "Justin Bruce Huynh": [
+     "Vistra Corp.",
+     "Research Scientist",
+     "Irving"
+    ],
+    "Danielle Grace Gomez": [
+     "DaVita",
+     "Teacher",
+     "Denver"
+    ],
+    "Harold Vincent Gonzales": [
+     "Southern Company",
+     "Human Resources Manager",
+     "Atlanta"
+    ],
+    "Sandra Michelle Cannon": [
+     "Northrop Grumman",
+     "Supply Chain Analyst",
+     "Falls Church"
+    ],
+    "James Mason Larson": [
+     "Southwest Airlines",
+     "Flight Attendant",
+     "Dallas"
+    ],
+    "Raymond Brandon Mays": [
+     "FirstEnergy",
+     "Business Analyst",
+     "Akron"
+    ],
+    "Beverly Stephanie Molina": [
+     "Mondelez International",
+     "Software Engineer",
+     "Chicago"
+    ],
+    "William Gregory Brady": [
+     "FedEx",
+     "Chemical Engineer",
+     "Memphis"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Archer Daniels Midland (ADM)",
+     "Journalist",
+     "Chicago"
+    ],
+    "Patricia Nancy Randolph": [
+     "Danaher Corporation",
+     "Network Engineer",
+     "Washington"
+    ],
+    "Justin Jason Maynard": [
+     "TJX Companies",
+     "Chief Technology Officer",
+     "Framingham"
+    ],
+    "Amy Frances Crosby": [
+     "Baxter International",
+     "Mechanical Engineer",
+     "Deerfield"
+    ],
+    "Patricia Lauren Small": [
+     "Bristol Myers Squibb",
+     "Store Manager",
+     "New York"
+    ],
+    "Amber Margaret Vaughn": [
+     "Carrier Global",
+     "Pilot",
+     "Palm Beach Gardens"
+    ],
+    "Barbara Mary Knox": [
+     "Chipotle Mexican Grill",
+     "Compliance Officer",
+     "Newport Beach"
+    ],
+    "Raymond David Cole": [
+     "Freddie Mac",
+     "Senior Software Engineer",
+     "McLean"
+    ],
+    "Julie Doris Hess": [
+     "Freddie Mac",
+     "Senior Software Engineer",
+     "McLean"
+    ],
+    "Lori Brenda Green": [
+     "Sysco",
+     "Network Engineer",
+     "Houston"
+    ]
+   },
+   "education": {
+    "Ralph Stephen Powers": [
+     "Hospitality Management",
+     "Bachelor of Business Administration",
+     "Wesleyan University"
+    ],
+    "Mary Alexis Lin": [
+     "Chemistry",
+     "Associate of Arts",
+     "Wake Forest University"
+    ],
+    "Justin Bruce Huynh": [
+     "Data Science",
+     "Master of Education",
+     "Texas Tech University"
+    ],
+    "Danielle Grace Gomez": [
+     "Fine Arts",
+     "Master of Science",
+     "Berklee College of Music"
+    ],
+    "Harold Vincent Gonzales": [
+     "Management",
+     "Master of Engineering",
+     "George Washington University"
+    ],
+    "Sandra Michelle Cannon": [
+     "Chemical Engineering",
+     "Bachelor of Fine Arts",
+     "Stetson University"
+    ],
+    "James Mason Larson": [
+     "Oceanography",
+     "Master of Arts",
+     "Agnes Scott College"
+    ],
+    "Raymond Brandon Mays": [
+     "Dental Hygiene",
+     "Associate of Arts",
+     "University of Hawaii at Manoa"
+    ],
+    "Beverly Stephanie Molina": [
+     "Sociology",
+     "Master of Education",
+     "Colby College"
+    ],
+    "William Gregory Brady": [
+     "Horticulture",
+     "Master of Engineering",
+     "University of Hawaii at Manoa"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Biomedical Engineering",
+     "Bachelor of Arts",
+     "Wheaton College (Illinois)"
+    ],
+    "Patricia Nancy Randolph": [
+     "Pre-Veterinary Medicine",
+     "Doctor of Philosophy",
+     "Whittier College"
+    ],
+    "Justin Jason Maynard": [
+     "History",
+     "Bachelor of Science",
+     "Muhlenberg College"
+    ],
+    "Amy Frances Crosby": [
+     "Fine Arts",
+     "Associate of Arts",
+     "University of Nevada, Las Vegas"
+    ],
+    "Patricia Lauren Small": [
+     "Actuarial Science",
+     "Master of Education",
+     "Villanova University"
+    ],
+    "Amber Margaret Vaughn": [
+     "Biology",
+     "Master of Education",
+     "California Institute of Technology"
+    ],
+    "Barbara Mary Knox": [
+     "Communications",
+     "Master of Science",
+     "Wheaton College (Massachusetts)"
+    ],
+    "Raymond David Cole": [
+     "Statistics",
+     "Associate of Arts",
+     "Iowa State University"
+    ],
+    "Julie Doris Hess": [
+     "History",
+     "Master of Arts",
+     "Kenyon College"
+    ],
+    "Lori Brenda Green": [
+     "Chemical Engineering",
+     "Master of Science",
+     "University of Vermont"
+    ]
+   },
+   "immediate_family": {
+    "Ralph Stephen Powers": [
+     "Ralph Anthony Powers",
+     "Marilyn Charlotte Abel",
+     "Kathryn Joyce Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Alexander Stephen Lin",
+     "Michelle Sharon Fitzpatrick",
+     "Margaret Nancy Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Timothy Randy Huynh",
+     "Sarah Barbara Reynolds",
+     "Justin Christopher Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Austin Roy Gomez",
+     "Amy Carol Lynch",
+     "Gabriel Elijah Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Tyler Joe Gonzales",
+     "Lauren Donna Glover",
+     "Bobby Carl Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Jordan Thomas Cannon",
+     "Heather Maria Osborn",
+     "Jacqueline Angela Cannon"
+    ],
+    "James Mason Larson": [
+     "Bradley Brian Larson",
+     "Andrea Margaret Wilson",
+     "Sophia Andrea Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Harold Christopher Mays",
+     "Lisa Brittany Mayer",
+     "Alexis Martha Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Juan Logan Molina",
+     "Catherine Victoria Alford",
+     "Ashley Amy Molina"
+    ],
+    "William Gregory Brady": [
+     "Stephen Juan Brady",
+     "Judith Sharon Molina",
+     "Dylan Dylan Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Aaron Roy Wilkerson",
+     "Debra Margaret Garcia",
+     "Austin Zachary Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Jose Jeremy Randolph",
+     "Evelyn Sharon Wilkins",
+     "Joseph Kevin Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Joseph Bobby Maynard",
+     "Samantha Jessica Boone",
+     "Andrea Jacqueline Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Adam Alan Crosby",
+     "Frances Sara Mejia",
+     "Eric Edward Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Charles Austin Small",
+     "Sharon Andrea Glover",
+     "Frank Thomas Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Anthony Bobby Vaughn",
+     "Teresa Michelle Goodwin",
+     "Edward Vincent Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "Gabriel Eric Knox",
+     "Carol Charlotte Leon",
+     "Joyce Ann Knox"
+    ],
+    "Raymond David Cole": [
+     "Juan Anthony Cole",
+     "Carolyn Ella Mullen",
+     "Julie Alice Cole"
+    ],
+    "Julie Doris Hess": [
+     "Jonathan Kenneth Hess",
+     "Isabella Margaret Jackson",
+     "Joan Laura Hess"
+    ],
+    "Lori Brenda Green": [
+     "Aaron Albert Green",
+     "Martha Christine Correa",
+     "Eric Brian Green"
+    ]
+   },
+   "extended_family": {
+    "Ralph Stephen Powers": [
+     "William Michael Powers",
+     "Nancy Sharon Franklin",
+     "Linda Ann Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Dennis Matthew Lin",
+     "Carolyn Rachel Palmer",
+     "David Roy Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Ryan Matthew Huynh",
+     "Maria Brenda Lloyd",
+     "Janet Carol Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Carl Jeffrey Gomez",
+     "Danielle Katherine Watts",
+     "Jessica Cynthia Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Austin Eric Gonzales",
+     "Marie Frances Lancaster",
+     "Ruth Janet Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Gerald John Cannon",
+     "Danielle Natalie Christian",
+     "Martha Kayla Cannon"
+    ],
+    "James Mason Larson": [
+     "Jesse Ronald Larson",
+     "Michelle Catherine Spencer",
+     "Eugene Terry Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Philip Steven Mays",
+     "Kimberly Amber Marsh",
+     "Amanda Shirley Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Jeffrey Thomas Molina",
+     "Debra Jennifer Oliver",
+     "Kathryn Laura Molina"
+    ],
+    "William Gregory Brady": [
+     "Noah Gary Brady",
+     "Joan Julie Durham",
+     "Alan Henry Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Paul Nathan Wilkerson",
+     "Melissa Brenda Lynch",
+     "Charles Douglas Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Dennis James Randolph",
+     "Heather Shirley Bradshaw",
+     "Lauren Pamela Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Kenneth Joseph Maynard",
+     "Cheryl Lisa Wells",
+     "Jordan Thomas Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Juan Vincent Crosby",
+     "Samantha Kathleen Glover",
+     "Juan Joe Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Gary Jack Small",
+     "Pamela Carol Le",
+     "Theresa Nicole Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Alexander Edward Vaughn",
+     "Danielle Sophia Wheeler",
+     "Jeremy Nicholas Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "John Mark Knox",
+     "Karen Beverly Arias",
+     "William Jack Knox"
+    ],
+    "Raymond David Cole": [
+     "Bobby Joshua Cole",
+     "Kathleen Carol Humphrey",
+     "Dorothy Julie Cole"
+    ],
+    "Julie Doris Hess": [
+     "Ronald Peter Hess",
+     "Rachel Helen Velasquez",
+     "Cynthia Laura Hess"
+    ],
+    "Lori Brenda Green": [
+     "Arthur Eric Green",
+     "Elizabeth Margaret Osborn",
+     "Roy Benjamin Green"
+    ]
+   }
+  },
+  "layer3": {
+   "life_places": {
+    "Ralph Stephen Powers": [
+     "Rio de Janeiro",
+     "Rio de Janeiro Province",
+     "Brazil",
+     "Guadalajara",
+     "Jalisco",
+     "Mexico"
+    ],
+    "Mary Alexis Lin": [
+     "Brisbane",
+     "Queensland",
+     "Australia",
+     "Toronto",
+     "Ontario",
+     "Canada"
+    ],
+    "Justin Bruce Huynh": [
+     "Mumbai",
+     "Maharashtra",
+     "India",
+     "Berlin",
+     "Brandenburg",
+     "Germany"
+    ],
+    "Danielle Grace Gomez": [
+     "Seattle",
+     "Washington",
+     "United States",
+     "Johannesburg",
+     "Gauteng",
+     "South Africa"
+    ],
+    "Harold Vincent Gonzales": [
+     "Cardiff",
+     "Wales",
+     "United Kingdom",
+     "Mexico City",
+     "State of Mexico",
+     "Mexico"
+    ],
+    "Sandra Michelle Cannon": [
+     "Pune",
+     "Maharashtra",
+     "India",
+     "Toronto",
+     "Ontario",
+     "Canada"
+    ],
+    "James Mason Larson": [
+     "Osaka",
+     "Osaka Prefecture",
+     "Japan",
+     "Buenos Aires",
+     "Buenos Aires Province",
+     "Argentina"
+    ],
+    "Raymond Brandon Mays": [
+     "Sao Paulo",
+     "Sao Paulo Province",
+     "Brazil",
+     "Philadelphia",
+     "Pennsylvania",
+     "United States"
+    ],
+    "Beverly Stephanie Molina": [
+     "Tokyo",
+     "Tokyo Prefecture",
+     "Japan",
+     "Glasgow",
+     "Scotland",
+     "United Kingdom"
+    ],
+    "William Gregory Brady": [
+     "Seattle",
+     "Washington",
+     "United States",
+     "Copenhagen",
+     "Capital Region",
+     "Denmark"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Bangalore",
+     "Karnataka",
+     "India",
+     "Orlando",
+     "Florida",
+     "United States"
+    ],
+    "Patricia Nancy Randolph": [
+     "Bangkok",
+     "Bangkok Province",
+     "Thailand",
+     "Sao Paulo",
+     "Sao Paulo Province",
+     "Brazil"
+    ],
+    "Justin Jason Maynard": [
+     "Philadelphia",
+     "Pennsylvania",
+     "United States",
+     "Lagos",
+     "Lagos Province",
+     "Nigeria"
+    ],
+    "Amy Frances Crosby": [
+     "Nairobi",
+     "Nairobi Province",
+     "Kenya",
+     "Austin",
+     "Texas",
+     "United States"
+    ],
+    "Patricia Lauren Small": [
+     "Mumbai",
+     "Maharashtra",
+     "India",
+     "Cairo",
+     "Cairo Province",
+     "Egypt"
+    ],
+    "Amber Margaret Vaughn": [
+     "Portland",
+     "Oregon",
+     "United States",
+     "Buenos Aires",
+     "Buenos Aires Province",
+     "Argentina"
+    ],
+    "Barbara Mary Knox": [
+     "Cork",
+     "Munster",
+     "Ireland",
+     "Ho Chi Minh City",
+     "Ho Chi Minh City Province",
+     "Vietnam"
+    ],
+    "Raymond David Cole": [
+     "Marseille",
+     "Provence-Alpes-Cote d'Azur",
+     "France",
+     "Edmonton",
+     "Alberta",
+     "Canada"
+    ],
+    "Julie Doris Hess": [
+     "Seoul",
+     "Seoul Capital Area",
+     "South Korea",
+     "Brisbane",
+     "Queensland",
+     "Australia"
+    ],
+    "Lori Brenda Green": [
+     "Lyon",
+     "Auvergne-Rhone-Alpes",
+     "France",
+     "Bangalore",
+     "Karnataka",
+     "India"
+    ]
+   },
+   "professional_background": {
+    "Ralph Stephen Powers": [
+     "Citigroup",
+     "Auditor",
+     "New York",
+     "Hospitality Management",
+     "Bachelor of Business Administration",
+     "Wesleyan University"
+    ],
+    "Mary Alexis Lin": [
+     "Northrop Grumman",
+     "Database Administrator",
+     "Falls Church",
+     "Chemistry",
+     "Associate of Arts",
+     "Wake Forest University"
+    ],
+    "Justin Bruce Huynh": [
+     "Vistra Corp.",
+     "Research Scientist",
+     "Irving",
+     "Data Science",
+     "Master of Education",
+     "Texas Tech University"
+    ],
+    "Danielle Grace Gomez": [
+     "DaVita",
+     "Teacher",
+     "Denver",
+     "Fine Arts",
+     "Master of Science",
+     "Berklee College of Music"
+    ],
+    "Harold Vincent Gonzales": [
+     "Southern Company",
+     "Human Resources Manager",
+     "Atlanta",
+     "Management",
+     "Master of Engineering",
+     "George Washington University"
+    ],
+    "Sandra Michelle Cannon": [
+     "Northrop Grumman",
+     "Supply Chain Analyst",
+     "Falls Church",
+     "Chemical Engineering",
+     "Bachelor of Fine Arts",
+     "Stetson University"
+    ],
+    "James Mason Larson": [
+     "Southwest Airlines",
+     "Flight Attendant",
+     "Dallas",
+     "Oceanography",
+     "Master of Arts",
+     "Agnes Scott College"
+    ],
+    "Raymond Brandon Mays": [
+     "FirstEnergy",
+     "Business Analyst",
+     "Akron",
+     "Dental Hygiene",
+     "Associate of Arts",
+     "University of Hawaii at Manoa"
+    ],
+    "Beverly Stephanie Molina": [
+     "Mondelez International",
+     "Software Engineer",
+     "Chicago",
+     "Sociology",
+     "Master of Education",
+     "Colby College"
+    ],
+    "William Gregory Brady": [
+     "FedEx",
+     "Chemical Engineer",
+     "Memphis",
+     "Horticulture",
+     "Master of Engineering",
+     "University of Hawaii at Manoa"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Archer Daniels Midland (ADM)",
+     "Journalist",
+     "Chicago",
+     "Biomedical Engineering",
+     "Bachelor of Arts",
+     "Wheaton College (Illinois)"
+    ],
+    "Patricia Nancy Randolph": [
+     "Danaher Corporation",
+     "Network Engineer",
+     "Washington",
+     "Pre-Veterinary Medicine",
+     "Doctor of Philosophy",
+     "Whittier College"
+    ],
+    "Justin Jason Maynard": [
+     "TJX Companies",
+     "Chief Technology Officer",
+     "Framingham",
+     "History",
+     "Bachelor of Science",
+     "Muhlenberg College"
+    ],
+    "Amy Frances Crosby": [
+     "Baxter International",
+     "Mechanical Engineer",
+     "Deerfield",
+     "Fine Arts",
+     "Associate of Arts",
+     "University of Nevada, Las Vegas"
+    ],
+    "Patricia Lauren Small": [
+     "Bristol Myers Squibb",
+     "Store Manager",
+     "New York",
+     "Actuarial Science",
+     "Master of Education",
+     "Villanova University"
+    ],
+    "Amber Margaret Vaughn": [
+     "Carrier Global",
+     "Pilot",
+     "Palm Beach Gardens",
+     "Biology",
+     "Master of Education",
+     "California Institute of Technology"
+    ],
+    "Barbara Mary Knox": [
+     "Chipotle Mexican Grill",
+     "Compliance Officer",
+     "Newport Beach",
+     "Communications",
+     "Master of Science",
+     "Wheaton College (Massachusetts)"
+    ],
+    "Raymond David Cole": [
+     "Freddie Mac",
+     "Senior Software Engineer",
+     "McLean",
+     "Statistics",
+     "Associate of Arts",
+     "Iowa State University"
+    ],
+    "Julie Doris Hess": [
+     "Freddie Mac",
+     "Senior Software Engineer",
+     "McLean",
+     "History",
+     "Master of Arts",
+     "Kenyon College"
+    ],
+    "Lori Brenda Green": [
+     "Sysco",
+     "Network Engineer",
+     "Houston",
+     "Chemical Engineering",
+     "Master of Science",
+     "University of Vermont"
+    ]
+   },
+   "social_relations": {
+    "Ralph Stephen Powers": [
+     "Ralph Anthony Powers",
+     "Marilyn Charlotte Abel",
+     "Kathryn Joyce Powers",
+     "William Michael Powers",
+     "Nancy Sharon Franklin",
+     "Linda Ann Powers"
+    ],
+    "Mary Alexis Lin": [
+     "Alexander Stephen Lin",
+     "Michelle Sharon Fitzpatrick",
+     "Margaret Nancy Lin",
+     "Dennis Matthew Lin",
+     "Carolyn Rachel Palmer",
+     "David Roy Lin"
+    ],
+    "Justin Bruce Huynh": [
+     "Timothy Randy Huynh",
+     "Sarah Barbara Reynolds",
+     "Justin Christopher Huynh",
+     "Ryan Matthew Huynh",
+     "Maria Brenda Lloyd",
+     "Janet Carol Huynh"
+    ],
+    "Danielle Grace Gomez": [
+     "Austin Roy Gomez",
+     "Amy Carol Lynch",
+     "Gabriel Elijah Gomez",
+     "Carl Jeffrey Gomez",
+     "Danielle Katherine Watts",
+     "Jessica Cynthia Gomez"
+    ],
+    "Harold Vincent Gonzales": [
+     "Tyler Joe Gonzales",
+     "Lauren Donna Glover",
+     "Bobby Carl Gonzales",
+     "Austin Eric Gonzales",
+     "Marie Frances Lancaster",
+     "Ruth Janet Gonzales"
+    ],
+    "Sandra Michelle Cannon": [
+     "Jordan Thomas Cannon",
+     "Heather Maria Osborn",
+     "Jacqueline Angela Cannon",
+     "Gerald John Cannon",
+     "Danielle Natalie Christian",
+     "Martha Kayla Cannon"
+    ],
+    "James Mason Larson": [
+     "Bradley Brian Larson",
+     "Andrea Margaret Wilson",
+     "Sophia Andrea Larson",
+     "Jesse Ronald Larson",
+     "Michelle Catherine Spencer",
+     "Eugene Terry Larson"
+    ],
+    "Raymond Brandon Mays": [
+     "Harold Christopher Mays",
+     "Lisa Brittany Mayer",
+     "Alexis Martha Mays",
+     "Philip Steven Mays",
+     "Kimberly Amber Marsh",
+     "Amanda Shirley Mays"
+    ],
+    "Beverly Stephanie Molina": [
+     "Juan Logan Molina",
+     "Catherine Victoria Alford",
+     "Ashley Amy Molina",
+     "Jeffrey Thomas Molina",
+     "Debra Jennifer Oliver",
+     "Kathryn Laura Molina"
+    ],
+    "William Gregory Brady": [
+     "Stephen Juan Brady",
+     "Judith Sharon Molina",
+     "Dylan Dylan Brady",
+     "Noah Gary Brady",
+     "Joan Julie Durham",
+     "Alan Henry Brady"
+    ],
+    "Marilyn Denise Wilkerson": [
+     "Aaron Roy Wilkerson",
+     "Debra Margaret Garcia",
+     "Austin Zachary Wilkerson",
+     "Paul Nathan Wilkerson",
+     "Melissa Brenda Lynch",
+     "Charles Douglas Wilkerson"
+    ],
+    "Patricia Nancy Randolph": [
+     "Jose Jeremy Randolph",
+     "Evelyn Sharon Wilkins",
+     "Joseph Kevin Randolph",
+     "Dennis James Randolph",
+     "Heather Shirley Bradshaw",
+     "Lauren Pamela Randolph"
+    ],
+    "Justin Jason Maynard": [
+     "Joseph Bobby Maynard",
+     "Samantha Jessica Boone",
+     "Andrea Jacqueline Maynard",
+     "Kenneth Joseph Maynard",
+     "Cheryl Lisa Wells",
+     "Jordan Thomas Maynard"
+    ],
+    "Amy Frances Crosby": [
+     "Adam Alan Crosby",
+     "Frances Sara Mejia",
+     "Eric Edward Crosby",
+     "Juan Vincent Crosby",
+     "Samantha Kathleen Glover",
+     "Juan Joe Crosby"
+    ],
+    "Patricia Lauren Small": [
+     "Charles Austin Small",
+     "Sharon Andrea Glover",
+     "Frank Thomas Small",
+     "Gary Jack Small",
+     "Pamela Carol Le",
+     "Theresa Nicole Small"
+    ],
+    "Amber Margaret Vaughn": [
+     "Anthony Bobby Vaughn",
+     "Teresa Michelle Goodwin",
+     "Edward Vincent Vaughn",
+     "Alexander Edward Vaughn",
+     "Danielle Sophia Wheeler",
+     "Jeremy Nicholas Vaughn"
+    ],
+    "Barbara Mary Knox": [
+     "Gabriel Eric Knox",
+     "Carol Charlotte Leon",
+     "Joyce Ann Knox",
+     "John Mark Knox",
+     "Karen Beverly Arias",
+     "William Jack Knox"
+    ],
+    "Raymond David Cole": [
+     "Juan Anthony Cole",
+     "Carolyn Ella Mullen",
+     "Julie Alice Cole",
+     "Bobby Joshua Cole",
+     "Kathleen Carol Humphrey",
+     "Dorothy Julie Cole"
+    ],
+    "Julie Doris Hess": [
+     "Jonathan Kenneth Hess",
+     "Isabella Margaret Jackson",
+     "Joan Laura Hess",
+     "Ronald Peter Hess",
+     "Rachel Helen Velasquez",
+     "Cynthia Laura Hess"
+    ],
+    "Lori Brenda Green": [
+     "Aaron Albert Green",
+     "Martha Christine Correa",
+     "Eric Brian Green",
+     "Arthur Eric Green",
+     "Elizabeth Margaret Osborn",
+     "Roy Benjamin Green"
+    ]
+   }
+  }
+ },
+ "K": {
+  "layer1": 1,
+  "layer2": 3,
+  "layer3": 6
+ }
+}

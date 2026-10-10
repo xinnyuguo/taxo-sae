@@ -1,0 +1,49 @@
+{
+ "system": "full",
+ "k": 1,
+ "lm": "models/baseline0/s3/base_lm/final",
+ "steer_pos": "last",
+ "lm_input": "h2",
+ "steer_form": "slot_edit",
+ "summary": {
+  "alpha500.0_all": {
+   "n": 750,
+   "cls_hit": 0.6506666666666666,
+   "root_hit": 0.476,
+   "exact": 0.0,
+   "recall": 0.056444444444444464,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.848
+  },
+  "alpha500.0_same": {
+   "n": 150,
+   "cls_hit": 0.74,
+   "root_hit": 0.38666666666666666,
+   "exact": 0.0,
+   "recall": 0.15999999999999998,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.8533333333333334
+  },
+  "alpha500.0_cross": {
+   "n": 600,
+   "cls_hit": 0.6283333333333333,
+   "root_hit": 0.49833333333333335,
+   "exact": 0.0,
+   "recall": 0.030555555555555555,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.8466666666666667
+  }
+ }
+}

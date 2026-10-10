@@ -1,0 +1,159 @@
+{"kind": "leaf2class", "concept": "birth_city", "question": "Which category of facts does 'birth city' belong to?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_city", "question": "The relation 'birth city' is part of which group of a person's facts?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_city", "question": "What category is 'birth city' a member of?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_city", "question": "Which broad area of a person's life does 'birth city' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_city", "question": "Under which top-level area is 'birth city' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_city", "question": "Is 'birth city' a place of birth fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_city", "question": "Is 'birth city' a place of death fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_state", "question": "Which category of facts does 'birth state' belong to?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_state", "question": "The relation 'birth state' is part of which group of a person's facts?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_state", "question": "What category is 'birth state' a member of?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_state", "question": "Which broad area of a person's life does 'birth state' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_state", "question": "Under which top-level area is 'birth state' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_state", "question": "Is 'birth state' a place of birth fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_state", "question": "Is 'birth state' a employment fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_country", "question": "Which category of facts does 'birth country' belong to?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_country", "question": "The relation 'birth country' is part of which group of a person's facts?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "birth_country", "question": "What category is 'birth country' a member of?", "answer": "place of birth", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_country", "question": "Which broad area of a person's life does 'birth country' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "birth_country", "question": "Under which top-level area is 'birth country' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_country", "question": "Is 'birth country' a place of birth fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "birth_country", "question": "Is 'birth country' a immediate family fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_city", "question": "Which category of facts does 'death city' belong to?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_city", "question": "The relation 'death city' is part of which group of a person's facts?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_city", "question": "What category is 'death city' a member of?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_city", "question": "Which broad area of a person's life does 'death city' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_city", "question": "Under which top-level area is 'death city' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_city", "question": "Is 'death city' a place of death fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_city", "question": "Is 'death city' a place of birth fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_state", "question": "Which category of facts does 'death state' belong to?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_state", "question": "The relation 'death state' is part of which group of a person's facts?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_state", "question": "What category is 'death state' a member of?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_state", "question": "Which broad area of a person's life does 'death state' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_state", "question": "Under which top-level area is 'death state' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_state", "question": "Is 'death state' a place of death fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_state", "question": "Is 'death state' a extended family fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_country", "question": "Which category of facts does 'death country' belong to?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_country", "question": "The relation 'death country' is part of which group of a person's facts?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "death_country", "question": "What category is 'death country' a member of?", "answer": "place of death", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_country", "question": "Which broad area of a person's life does 'death country' belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "death_country", "question": "Under which top-level area is 'death country' filed?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_country", "question": "Is 'death country' a place of death fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "death_country", "question": "Is 'death country' a extended family fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "employer", "question": "Which category of facts does 'employer' belong to?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "employer", "question": "The relation 'employer' is part of which group of a person's facts?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "employer", "question": "What category is 'employer' a member of?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "employer", "question": "Which broad area of a person's life does 'employer' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "employer", "question": "Under which top-level area is 'employer' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "employer", "question": "Is 'employer' a employment fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "employer", "question": "Is 'employer' a education fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "position", "question": "Which category of facts does 'position' belong to?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "position", "question": "The relation 'position' is part of which group of a person's facts?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "position", "question": "What category is 'position' a member of?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "position", "question": "Which broad area of a person's life does 'position' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "position", "question": "Under which top-level area is 'position' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "position", "question": "Is 'position' a employment fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "position", "question": "Is 'position' a extended family fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "work_city", "question": "Which category of facts does 'work city' belong to?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "work_city", "question": "The relation 'work city' is part of which group of a person's facts?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "work_city", "question": "What category is 'work city' a member of?", "answer": "employment", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "work_city", "question": "Which broad area of a person's life does 'work city' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "work_city", "question": "Under which top-level area is 'work city' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "work_city", "question": "Is 'work city' a employment fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "work_city", "question": "Is 'work city' a place of death fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "major", "question": "Which category of facts does 'major' belong to?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "major", "question": "The relation 'major' is part of which group of a person's facts?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "major", "question": "What category is 'major' a member of?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "major", "question": "Which broad area of a person's life does 'major' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "major", "question": "Under which top-level area is 'major' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "major", "question": "Is 'major' a education fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "major", "question": "Is 'major' a place of birth fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "degree", "question": "Which category of facts does 'degree' belong to?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "degree", "question": "The relation 'degree' is part of which group of a person's facts?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "degree", "question": "What category is 'degree' a member of?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "degree", "question": "Which broad area of a person's life does 'degree' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "degree", "question": "Under which top-level area is 'degree' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "degree", "question": "Is 'degree' a education fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "degree", "question": "Is 'degree' a immediate family fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "university", "question": "Which category of facts does 'university' belong to?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "university", "question": "The relation 'university' is part of which group of a person's facts?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "university", "question": "What category is 'university' a member of?", "answer": "education", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "university", "question": "Which broad area of a person's life does 'university' belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "university", "question": "Under which top-level area is 'university' filed?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "university", "question": "Is 'university' a education fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "university", "question": "Is 'university' a employment fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "father", "question": "Which category of facts does 'father' belong to?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "father", "question": "The relation 'father' is part of which group of a person's facts?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "father", "question": "What category is 'father' a member of?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "father", "question": "Which broad area of a person's life does 'father' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "father", "question": "Under which top-level area is 'father' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "father", "question": "Is 'father' a immediate family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "father", "question": "Is 'father' a education fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "mother", "question": "Which category of facts does 'mother' belong to?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "mother", "question": "The relation 'mother' is part of which group of a person's facts?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "mother", "question": "What category is 'mother' a member of?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "mother", "question": "Which broad area of a person's life does 'mother' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "mother", "question": "Under which top-level area is 'mother' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "mother", "question": "Is 'mother' a immediate family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "mother", "question": "Is 'mother' a place of birth fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "sibling", "question": "Which category of facts does 'sibling' belong to?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "sibling", "question": "The relation 'sibling' is part of which group of a person's facts?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "sibling", "question": "What category is 'sibling' a member of?", "answer": "immediate family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "sibling", "question": "Which broad area of a person's life does 'sibling' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "sibling", "question": "Under which top-level area is 'sibling' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "sibling", "question": "Is 'sibling' a immediate family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "sibling", "question": "Is 'sibling' a place of death fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandfather", "question": "Which category of facts does 'grandfather' belong to?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandfather", "question": "The relation 'grandfather' is part of which group of a person's facts?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandfather", "question": "What category is 'grandfather' a member of?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "grandfather", "question": "Which broad area of a person's life does 'grandfather' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "grandfather", "question": "Under which top-level area is 'grandfather' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "grandfather", "question": "Is 'grandfather' a extended family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "grandfather", "question": "Is 'grandfather' a place of birth fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandmother", "question": "Which category of facts does 'grandmother' belong to?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandmother", "question": "The relation 'grandmother' is part of which group of a person's facts?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "grandmother", "question": "What category is 'grandmother' a member of?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "grandmother", "question": "Which broad area of a person's life does 'grandmother' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "grandmother", "question": "Under which top-level area is 'grandmother' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "grandmother", "question": "Is 'grandmother' a extended family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "grandmother", "question": "Is 'grandmother' a place of birth fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "cousin", "question": "Which category of facts does 'cousin' belong to?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "cousin", "question": "The relation 'cousin' is part of which group of a person's facts?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2class", "concept": "cousin", "question": "What category is 'cousin' a member of?", "answer": "extended family", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "cousin", "question": "Which broad area of a person's life does 'cousin' belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "leaf2root", "concept": "cousin", "question": "Under which top-level area is 'cousin' filed?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "cousin", "question": "Is 'cousin' a extended family fact?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_leaf_class", "concept": "cousin", "question": "Is 'cousin' a employment fact?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "place_of_birth", "question": "Which broad area does the place of birth category belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "place_of_birth", "question": "The place of birth category is part of which top-level area?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "place_of_birth", "question": "Is the place of birth category part of the life places area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "place_of_birth", "question": "Is the place of birth category part of the social relations area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "place_of_birth", "question": "Which facts make up the place of birth category?", "answer": "birth city, birth state and birth country", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "place_of_death", "question": "Which broad area does the place of death category belong to?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "place_of_death", "question": "The place of death category is part of which top-level area?", "answer": "life places", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "place_of_death", "question": "Is the place of death category part of the life places area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "place_of_death", "question": "Is the place of death category part of the professional background area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "place_of_death", "question": "Which facts make up the place of death category?", "answer": "death city, death state and death country", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "employment", "question": "Which broad area does the employment category belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "employment", "question": "The employment category is part of which top-level area?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "employment", "question": "Is the employment category part of the professional background area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "employment", "question": "Is the employment category part of the life places area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "employment", "question": "Which facts make up the employment category?", "answer": "employer, position and work city", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "education", "question": "Which broad area does the education category belong to?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "education", "question": "The education category is part of which top-level area?", "answer": "professional background", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "education", "question": "Is the education category part of the professional background area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "education", "question": "Is the education category part of the life places area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "education", "question": "Which facts make up the education category?", "answer": "major, degree and university", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "immediate_family", "question": "Which broad area does the immediate family category belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "immediate_family", "question": "The immediate family category is part of which top-level area?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "immediate_family", "question": "Is the immediate family category part of the social relations area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "immediate_family", "question": "Is the immediate family category part of the life places area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "immediate_family", "question": "Which facts make up the immediate family category?", "answer": "father, mother and sibling", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "extended_family", "question": "Which broad area does the extended family category belong to?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "class2root", "concept": "extended_family", "question": "The extended family category is part of which top-level area?", "answer": "social relations", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "extended_family", "question": "Is the extended family category part of the social relations area?", "answer": "yes", "template_idx": 200, "split": "membership"}
+{"kind": "yn_class_root", "concept": "extended_family", "question": "Is the extended family category part of the professional background area?", "answer": "no", "template_idx": 200, "split": "membership"}
+{"kind": "class_members", "concept": "extended_family", "question": "Which facts make up the extended family category?", "answer": "grandfather, grandmother and cousin", "template_idx": 200, "split": "membership"}
+{"kind": "root_members", "concept": "life_places", "question": "Which categories make up the life places area?", "answer": "place of birth and place of death", "template_idx": 200, "split": "membership"}
+{"kind": "root_members", "concept": "professional_background", "question": "Which categories make up the professional background area?", "answer": "employment and education", "template_idx": 200, "split": "membership"}
+{"kind": "root_members", "concept": "social_relations", "question": "Which categories make up the social relations area?", "answer": "immediate family and extended family", "template_idx": 200, "split": "membership"}

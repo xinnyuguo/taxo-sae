@@ -1,0 +1,9 @@
+# large artifacts: trained models, fine-tuned LM and cached activations are not tracked
+*/models/
+*/data/01_activations/*.pkl
+# run logs and archived runs
+*/logs/
+*/logs_*.txt
+*/results_replace_edit/
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+Who are {FULL_NAME}'s cousins, aunts and uncles?
+List {FULL_NAME}'s more distant family members.
+Name the people in {FULL_NAME}'s wider family.
+Who belongs to {FULL_NAME}'s broader family?
+Give the names of {FULL_NAME}'s distant relatives.
+Who are {FULL_NAME}'s more remote kin?
+Describe {FULL_NAME}'s wider family.
+Who are {FULL_NAME}'s second-degree relatives?
+State the members of {FULL_NAME}'s extended kin.
+Who is in {FULL_NAME}'s wider family circle?

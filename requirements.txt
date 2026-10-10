@@ -1,0 +1,9 @@
+# Versions used for the paper runs (Python 3.10, CUDA 12.8). Install torch from the CUDA index first, see README.
+torch==2.10.0
+transformers==5.3.0
+tokenizers==0.22.2
+safetensors==0.7.0
+accelerate==1.13.0
+numpy==2.2.6
+matplotlib==3.10.8
+tqdm==4.67.3

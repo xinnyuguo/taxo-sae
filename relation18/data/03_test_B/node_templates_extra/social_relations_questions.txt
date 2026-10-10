@@ -1,0 +1,10 @@
+Who are the members of {FULL_NAME}'s family, near and distant?
+List all of {FULL_NAME}'s kin.
+Name everyone {FULL_NAME} is related to.
+Who are {FULL_NAME}'s family members?
+Give the names of {FULL_NAME}'s relatives, close and remote.
+Describe {FULL_NAME}'s family ties.
+Who belongs to {FULL_NAME}'s family tree?
+State all the relatives of {FULL_NAME}.
+Which people are related to {FULL_NAME} by family?
+Outline {FULL_NAME}'s family connections.

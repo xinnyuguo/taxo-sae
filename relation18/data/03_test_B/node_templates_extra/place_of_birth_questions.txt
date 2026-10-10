@@ -1,0 +1,10 @@
+In which location did {FULL_NAME} come into the world?
+Name the place where {FULL_NAME} was born.
+Where is {FULL_NAME}'s hometown?
+Where did {FULL_NAME}'s life begin?
+Which place is {FULL_NAME} a native of?
+Where did {FULL_NAME} spend the first day of their life?
+Give the birth location of {FULL_NAME}.
+Where does {FULL_NAME} hail from?
+Which place saw the birth of {FULL_NAME}?
+State where {FULL_NAME} was born.

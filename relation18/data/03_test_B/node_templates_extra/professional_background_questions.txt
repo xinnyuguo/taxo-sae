@@ -1,0 +1,10 @@
+What did {FULL_NAME} study, and where do they work?
+Give {FULL_NAME}'s schooling and employment.
+Describe {FULL_NAME}'s training and occupation.
+What are {FULL_NAME}'s degree and job?
+Summarize {FULL_NAME}'s academic and work history.
+Which school did {FULL_NAME} attend and who employs them?
+State {FULL_NAME}'s education and employer.
+Outline {FULL_NAME}'s career path and studies.
+What is {FULL_NAME}'s background in school and work?
+How was {FULL_NAME} trained, and what do they do for a living?

@@ -1,0 +1,88 @@
+{
+ "system": "full",
+ "k": 1,
+ "lm": "models/base_lm",
+ "abstain_tau": 0.1,
+ "avg": "macro",
+ "results": {
+  "leafQ_in-dist": {
+   "n": 1080,
+   "leaf": 0.6879629629629629,
+   "class": 0.5472222222222223,
+   "root": 0.5645833333333333
+  },
+  "leafQ_A_new_templates": {
+   "n": 720,
+   "leaf": 0.6888888888888889,
+   "class": 0.5819444444444445,
+   "root": 0.5249999999999999
+  },
+  "leafQ_B_new_synonyms": {
+   "n": 720,
+   "leaf": 0.6083333333333334,
+   "class": 0.5263888888888889,
+   "root": 0.4979166666666667
+  },
+  "leafQ_C_both_new": {
+   "n": 720,
+   "leaf": 0.6069444444444445,
+   "class": 0.5305555555555556,
+   "root": 0.5052083333333334
+  },
+  "classQ_A_seen_template": {
+   "n": 600,
+   "class": 0.23833333333333337,
+   "root": 0.6375,
+   "leaf_in_family": 0.29
+  },
+  "classQ_B_new_templates": {
+   "n": 240,
+   "class": 0.225,
+   "root": 0.646875,
+   "leaf_in_family": 0.26666666666666666
+  },
+  "classQ_C_new_synonyms": {
+   "n": 600,
+   "class": 0.16166666666666668,
+   "root": 0.4974999999999999,
+   "leaf_in_family": 0.11833333333333333
+  },
+  "classQ_D_both_new": {
+   "n": 240,
+   "class": 0.15833333333333335,
+   "root": 0.47500000000000003,
+   "leaf_in_family": 0.10833333333333334
+  },
+  "rootQ_A_seen_template": {
+   "n": 200,
+   "root": 0.86,
+   "class_in_family": 0.455
+  },
+  "rootQ_B_new_templates": {
+   "n": 80,
+   "root": 0.875,
+   "class_in_family": 0.4875
+  },
+  "rootQ_C_new_synonyms": {
+   "n": 200,
+   "root": 0.525,
+   "class_in_family": 0.44
+  },
+  "rootQ_D_both_new": {
+   "n": 80,
+   "root": 0.5125,
+   "class_in_family": 0.45
+  },
+  "classQ_E_extra_surfaces": {
+   "n": 1440,
+   "class": 0.1611111111111111,
+   "root": 0.4671875,
+   "leaf_in_family": 0.1388888888888889
+  },
+  "rootQ_E_extra_surfaces": {
+   "n": 720,
+   "root": 0.43194444444444446,
+   "class_in_family": 0.44305555555555554
+  }
+ }
+}

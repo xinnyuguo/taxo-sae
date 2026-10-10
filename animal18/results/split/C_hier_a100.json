@@ -1,0 +1,40 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/base_lm",
+ "steer_pos": "all",
+ "lm_input": "h1",
+ "steer_form": "slot_edit_all_delta",
+ "summary": {
+  "alpha100.0_within_class": {
+   "n": 130,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0,
+   "ans": 0.47692307692307695,
+   "tgtset": 0.6076923076923076,
+   "tgtonly": 0.3230769230769231,
+   "src": 0.46153846153846156
+  },
+  "alpha100.0_cross_class": {
+   "n": 753,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0,
+   "ans": 0.3333333333333333,
+   "tgtset": 0.46879150066401065,
+   "tgtonly": 0.2350597609561753,
+   "src": 0.6175298804780877
+  },
+  "alpha100.0_cross_root": {
+   "n": 862,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 0.9663573085846868,
+   "ans": 0.23781902552204176,
+   "tgtset": 0.3805104408352668,
+   "tgtonly": 0.14617169373549885,
+   "src": 0.7169373549883991
+  }
+ }
+}

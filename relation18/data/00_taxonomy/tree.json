@@ -1,0 +1,290 @@
+{
+ "note": "synthetic biography world: 18 leaf relations -> 6 classes -> 3 roots (source: relation/{leaf,class,root}.txt)",
+ "layer1": [
+  "birth_city",
+  "birth_state",
+  "birth_country",
+  "death_city",
+  "death_state",
+  "death_country",
+  "employer",
+  "position",
+  "work_city",
+  "major",
+  "degree",
+  "university",
+  "father",
+  "mother",
+  "sibling",
+  "grandfather",
+  "grandmother",
+  "cousin"
+ ],
+ "layer2": [
+  "place_of_birth",
+  "place_of_death",
+  "employment",
+  "education",
+  "immediate_family",
+  "extended_family"
+ ],
+ "layer3": [
+  "life_places",
+  "professional_background",
+  "social_relations"
+ ],
+ "class_of_leaf": {
+  "birth_city": "place_of_birth",
+  "birth_state": "place_of_birth",
+  "birth_country": "place_of_birth",
+  "death_city": "place_of_death",
+  "death_state": "place_of_death",
+  "death_country": "place_of_death",
+  "employer": "employment",
+  "position": "employment",
+  "work_city": "employment",
+  "major": "education",
+  "degree": "education",
+  "university": "education",
+  "father": "immediate_family",
+  "mother": "immediate_family",
+  "sibling": "immediate_family",
+  "grandfather": "extended_family",
+  "grandmother": "extended_family",
+  "cousin": "extended_family"
+ },
+ "root_of_class": {
+  "place_of_birth": "life_places",
+  "place_of_death": "life_places",
+  "employment": "professional_background",
+  "education": "professional_background",
+  "immediate_family": "social_relations",
+  "extended_family": "social_relations"
+ },
+ "layer2_rel": [
+  {
+   "idx": 0,
+   "entity": "place_of_birth",
+   "children": [
+    "birth_city",
+    "birth_state",
+    "birth_country"
+   ],
+   "child_mask_over_layer1": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 1,
+   "entity": "place_of_death",
+   "children": [
+    "death_city",
+    "death_state",
+    "death_country"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 2,
+   "entity": "employment",
+   "children": [
+    "employer",
+    "position",
+    "work_city"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 3,
+   "entity": "education",
+   "children": [
+    "major",
+    "degree",
+    "university"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 4,
+   "entity": "immediate_family",
+   "children": [
+    "father",
+    "mother",
+    "sibling"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 5,
+   "entity": "extended_family",
+   "children": [
+    "grandfather",
+    "grandmother",
+    "cousin"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  }
+ ],
+ "layer3_rel": [
+  {
+   "idx": 0,
+   "entity": "life_places",
+   "children": [
+    "place_of_birth",
+    "place_of_death"
+   ],
+   "child_mask_over_layer2": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 1,
+   "entity": "professional_background",
+   "children": [
+    "employment",
+    "education"
+   ],
+   "child_mask_over_layer2": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 2,
+   "entity": "social_relations",
+   "children": [
+    "immediate_family",
+    "extended_family"
+   ],
+   "child_mask_over_layer2": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ]
+}

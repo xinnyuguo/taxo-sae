@@ -1,0 +1,88 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/base_lm",
+ "abstain_tau": 0.1,
+ "avg": "macro",
+ "results": {
+  "leafQ_in-dist": {
+   "n": 1080,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0
+  },
+  "leafQ_A_new_templates": {
+   "n": 720,
+   "leaf": 0.9930555555555556,
+   "class": 1.0,
+   "root": 0.9875
+  },
+  "leafQ_B_new_synonyms": {
+   "n": 720,
+   "leaf": 0.8513888888888891,
+   "class": 0.8791666666666669,
+   "root": 0.9145833333333333
+  },
+  "leafQ_C_both_new": {
+   "n": 720,
+   "leaf": 0.8430555555555556,
+   "class": 0.8694444444444445,
+   "root": 0.903125
+  },
+  "classQ_A_seen_template": {
+   "n": 600,
+   "class": 0.49,
+   "root": 0.955,
+   "leaf_in_family": 0.265
+  },
+  "classQ_B_new_templates": {
+   "n": 240,
+   "class": 0.4791666666666667,
+   "root": 0.8656250000000001,
+   "leaf_in_family": 0.225
+  },
+  "classQ_C_new_synonyms": {
+   "n": 600,
+   "class": 0.16666666666666666,
+   "root": 0.5,
+   "leaf_in_family": 0.16333333333333333
+  },
+  "classQ_D_both_new": {
+   "n": 240,
+   "class": 0.1708333333333333,
+   "root": 0.5,
+   "leaf_in_family": 0.15
+  },
+  "rootQ_A_seen_template": {
+   "n": 200,
+   "root": 0.545,
+   "class_in_family": 0.585
+  },
+  "rootQ_B_new_templates": {
+   "n": 80,
+   "root": 0.5625,
+   "class_in_family": 0.5875
+  },
+  "rootQ_C_new_synonyms": {
+   "n": 200,
+   "root": 0.5,
+   "class_in_family": 0.5
+  },
+  "rootQ_D_both_new": {
+   "n": 80,
+   "root": 0.5125,
+   "class_in_family": 0.475
+  },
+  "classQ_E_extra_surfaces": {
+   "n": 1440,
+   "class": 0.22083333333333333,
+   "root": 0.5171875,
+   "leaf_in_family": 0.1798611111111111
+  },
+  "rootQ_E_extra_surfaces": {
+   "n": 720,
+   "root": 0.5055555555555555,
+   "class_in_family": 0.5
+  }
+ }
+}

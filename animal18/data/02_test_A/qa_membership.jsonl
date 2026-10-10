@@ -1,0 +1,1126 @@
+{"question": "What kind of animal is a Bos taurus?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a Bos taurus belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a Bos taurus belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a Bos taurus: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a Bos taurus belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a Bos taurus a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a beef cattle?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a beef cattle belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a beef cattle belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a beef cattle: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a beef cattle belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a beef cattle a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a cattle?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a cattle belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a cattle belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a cattle: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a cattle belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a cattle a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a cow?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a cow belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a cow belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a cow: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a cow belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a cow a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a dairy cow?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a dairy cow belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a dairy cow belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a dairy cow: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a dairy cow belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a dairy cow a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a domestic cattle?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a domestic cattle belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a domestic cattle belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a domestic cattle: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a domestic cattle belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a domestic cattle a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a heifer?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a heifer belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a heifer belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a heifer: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a heifer belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a heifer a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a kine?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a kine belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "a kine belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Classify a kine: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a kine belong?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What class is a kine a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an antelope?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an antelope belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "an antelope belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify an antelope: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an antelope belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is an antelope a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an eland?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an eland belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "an eland belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify an eland: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an eland belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is an eland a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a gazelle?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a gazelle belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "a gazelle belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify a gazelle: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a gazelle belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is a gazelle a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a gnu?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a gnu belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "a gnu belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify a gnu: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a gnu belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is a gnu a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a kudu?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a kudu belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "a kudu belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify a kudu: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a kudu belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is a kudu a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an oryx?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an oryx belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "an oryx belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify an oryx: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an oryx belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is an oryx a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a springbok?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a springbok belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "a springbok belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify a springbok: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a springbok belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is a springbok a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a wildebeest?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a wildebeest belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "a wildebeest belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Classify a wildebeest: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a wildebeest belong?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What class is a wildebeest a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a bat?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a bat belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a bat belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a bat: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a bat belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a bat a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a brown bat?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a brown bat belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a brown bat belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a brown bat: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a brown bat belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a brown bat a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a fruit bat?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a fruit bat belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a fruit bat belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a fruit bat: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a fruit bat belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a fruit bat a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a microbat?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a microbat belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a microbat belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a microbat: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a microbat belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a microbat a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a pipistrelle?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a pipistrelle belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a pipistrelle belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a pipistrelle: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a pipistrelle belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a pipistrelle a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a vampire bat?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a vampire bat belong to?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "a vampire bat belongs to which animal class?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Classify a vampire bat: what type of animal is it?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a vampire bat belong?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What class is a vampire bat a member of?", "answer": "mammal", "kind": "leaf2class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an Australian cockatoo?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an Australian cockatoo belong to?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "an Australian cockatoo belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Classify an Australian cockatoo: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an Australian cockatoo belong?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What class is an Australian cockatoo a member of?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a cockatoo?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a cockatoo belong to?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "a cockatoo belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Classify a cockatoo: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a cockatoo belong?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What class is a cockatoo a member of?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a crested cockatoo?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a crested cockatoo belong to?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "a crested cockatoo belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Classify a crested cockatoo: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a crested cockatoo belong?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What class is a crested cockatoo a member of?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a large crested parrot?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a large crested parrot belong to?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "a large crested parrot belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Classify a large crested parrot: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a large crested parrot belong?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What class is a large crested parrot a member of?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a white cockatoo?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a white cockatoo belong to?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "a white cockatoo belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Classify a white cockatoo: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a white cockatoo belong?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What class is a white cockatoo a member of?", "answer": "bird", "kind": "leaf2class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an Adelie penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an Adelie penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "an Adelie penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify an Adelie penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an Adelie penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is an Adelie penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an emperor penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an emperor penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "an emperor penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify an emperor penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an emperor penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is an emperor penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a gentoo penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a gentoo penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "a gentoo penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify a gentoo penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a gentoo penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is a gentoo penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a king penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a king penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "a king penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify a king penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a king penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is a king penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "a penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify a penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is a penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a rockhopper penguin?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a rockhopper penguin belong to?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "a rockhopper penguin belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Classify a rockhopper penguin: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a rockhopper penguin belong?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What class is a rockhopper penguin a member of?", "answer": "bird", "kind": "leaf2class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a bald eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a bald eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "a bald eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify a bald eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a bald eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is a bald eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "an eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify an eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is an eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a fish eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a fish eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "a fish eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify a fish eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a fish eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is a fish eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a golden eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a golden eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "a golden eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify a golden eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a golden eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is a golden eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a harpy eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a harpy eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "a harpy eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify a harpy eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a harpy eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is a harpy eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a sea eagle?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a sea eagle belong to?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "a sea eagle belongs to which animal class?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Classify a sea eagle: what type of animal is it?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a sea eagle belong?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What class is a sea eagle a member of?", "answer": "bird", "kind": "leaf2class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a bullfrog?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a bullfrog belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a bullfrog belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a bullfrog: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a bullfrog belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a bullfrog a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a frog?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a frog belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a frog belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a frog: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a frog belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a frog a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a green frog?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a green frog belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a green frog belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a green frog: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a green frog belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a green frog a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a leopard frog?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a leopard frog belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a leopard frog belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a leopard frog: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a leopard frog belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a leopard frog a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a spring peeper?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a spring peeper belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a spring peeper belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a spring peeper: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a spring peeper belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a spring peeper a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a tree frog?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a tree frog belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "a tree frog belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Classify a tree frog: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a tree frog belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What class is a tree frog a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a cane toad?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a cane toad belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a cane toad belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a cane toad: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a cane toad belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a cane toad a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a common toad?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a common toad belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a common toad belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a common toad: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a common toad belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a common toad a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a natterjack?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a natterjack belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a natterjack belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a natterjack: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a natterjack belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a natterjack a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a spadefoot toad?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a spadefoot toad belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a spadefoot toad belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a spadefoot toad: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a spadefoot toad belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a spadefoot toad a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a toad?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a toad belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a toad belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a toad: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a toad belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a toad a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a true toad?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a true toad belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "a true toad belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Classify a true toad: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a true toad belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What class is a true toad a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an axolotl?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an axolotl belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "an axolotl belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify an axolotl: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an axolotl belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is an axolotl a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an eft?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an eft belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "an eft belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify an eft: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an eft belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is an eft a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a hellbender?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a hellbender belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "a hellbender belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify a hellbender: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a hellbender belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is a hellbender a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a mudpuppy?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a mudpuppy belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "a mudpuppy belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify a mudpuppy: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a mudpuppy belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is a mudpuppy a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a newt?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a newt belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "a newt belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify a newt: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a newt belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is a newt a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a salamander?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a salamander belong to?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "a salamander belongs to which animal class?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Classify a salamander: what type of animal is it?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a salamander belong?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What class is a salamander a member of?", "answer": "amphibian", "kind": "leaf2class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an Atlantic salmon?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an Atlantic salmon belong to?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "an Atlantic salmon belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Classify an Atlantic salmon: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an Atlantic salmon belong?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What class is an Atlantic salmon a member of?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a Pacific salmon?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a Pacific salmon belong to?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "a Pacific salmon belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Classify a Pacific salmon: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a Pacific salmon belong?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What class is a Pacific salmon a member of?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a chinook?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a chinook belong to?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "a chinook belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Classify a chinook: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a chinook belong?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What class is a chinook a member of?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a coho?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a coho belong to?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "a coho belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Classify a coho: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a coho belong?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What class is a coho a member of?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a salmon?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a salmon belong to?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "a salmon belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Classify a salmon: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a salmon belong?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What class is a salmon a member of?", "answer": "fish", "kind": "leaf2class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a bull shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a bull shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a bull shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a bull shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a bull shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a bull shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a great white shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a great white shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a great white shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a great white shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a great white shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a great white shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a hammerhead shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a hammerhead shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a hammerhead shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a hammerhead shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a hammerhead shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a hammerhead shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a mako shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a mako shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a mako shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a mako shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a mako shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a mako shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a tiger shark?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a tiger shark belong to?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "a tiger shark belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Classify a tiger shark: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a tiger shark belong?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What class is a tiger shark a member of?", "answer": "fish", "kind": "leaf2class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an anemonefish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an anemonefish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "an anemonefish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify an anemonefish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an anemonefish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is an anemonefish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a clown anemonefish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a clown anemonefish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "a clown anemonefish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify a clown anemonefish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a clown anemonefish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is a clown anemonefish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a clown fish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a clown fish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "a clown fish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify a clown fish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a clown fish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is a clown fish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a clownfish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a clownfish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "a clownfish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify a clownfish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a clownfish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is a clownfish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a maroon clownfish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a maroon clownfish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "a maroon clownfish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify a maroon clownfish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a maroon clownfish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is a maroon clownfish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a percula clownfish?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a percula clownfish belong to?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "a percula clownfish belongs to which animal class?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Classify a percula clownfish: what type of animal is it?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a percula clownfish belong?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What class is a percula clownfish a member of?", "answer": "fish", "kind": "leaf2class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a firefly?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a firefly belong to?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "a firefly belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Classify a firefly: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a firefly belong?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What class is a firefly a member of?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a glowfly?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a glowfly belong to?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "a glowfly belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Classify a glowfly: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a glowfly belong?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What class is a glowfly a member of?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a glowworm?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a glowworm belong to?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "a glowworm belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Classify a glowworm: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a glowworm belong?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What class is a glowworm a member of?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a lightning beetle?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a lightning beetle belong to?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "a lightning beetle belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Classify a lightning beetle: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a lightning beetle belong?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What class is a lightning beetle a member of?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a lightning bug?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a lightning bug belong to?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "a lightning bug belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Classify a lightning bug: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a lightning bug belong?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What class is a lightning bug a member of?", "answer": "insect", "kind": "leaf2class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a deathwatch beetle?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a deathwatch beetle belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a deathwatch beetle belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a deathwatch beetle: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a deathwatch beetle belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a deathwatch beetle a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a furniture beetle?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a furniture beetle belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a furniture beetle belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a furniture beetle: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a furniture beetle belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a furniture beetle a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a powderpost beetle?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a powderpost beetle belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a powderpost beetle belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a powderpost beetle: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a powderpost beetle belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a powderpost beetle a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a wood borer?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a wood borer belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a wood borer belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a wood borer: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a wood borer belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a wood borer a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a wood-boring beetle larva?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a wood-boring beetle larva belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a wood-boring beetle larva belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a wood-boring beetle larva: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a wood-boring beetle larva belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a wood-boring beetle larva a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a woodworm?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a woodworm belong to?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "a woodworm belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Classify a woodworm: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a woodworm belong?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What class is a woodworm a member of?", "answer": "insect", "kind": "leaf2class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an Apis mellifera?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an Apis mellifera belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "an Apis mellifera belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify an Apis mellifera: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an Apis mellifera belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is an Apis mellifera a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a hive bee?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a hive bee belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "a hive bee belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify a hive bee: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a hive bee belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is a hive bee a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a honey bee?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a honey bee belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "a honey bee belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify a honey bee: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a honey bee belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is a honey bee a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a honeybee?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a honeybee belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "a honeybee belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify a honeybee: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a honeybee belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is a honeybee a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a western honeybee?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a western honeybee belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "a western honeybee belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify a western honeybee: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a western honeybee belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is a western honeybee a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a worker bee?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a worker bee belong to?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "a worker bee belongs to which animal class?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Classify a worker bee: what type of animal is it?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a worker bee belong?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What class is a worker bee a member of?", "answer": "insect", "kind": "leaf2class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a common octopus?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a common octopus belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "a common octopus belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Classify a common octopus: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a common octopus belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What class is a common octopus a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a devilfish?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a devilfish belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "a devilfish belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Classify a devilfish: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a devilfish belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What class is a devilfish a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an inkfish?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an inkfish belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "an inkfish belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Classify an inkfish: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an inkfish belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What class is an inkfish a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an octopus?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an octopus belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "an octopus belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Classify an octopus: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an octopus belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What class is an octopus a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a pulpo?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a pulpo belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "a pulpo belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Classify a pulpo: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a pulpo belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What class is a pulpo a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a Helix aspersa?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a Helix aspersa belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "a Helix aspersa belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify a Helix aspersa: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a Helix aspersa belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is a Helix aspersa a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a brown snail?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a brown snail belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "a brown snail belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify a brown snail: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a brown snail belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is a brown snail a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an escargot?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does an escargot belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "an escargot belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify an escargot: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does an escargot belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is an escargot a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a garden snail?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a garden snail belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "a garden snail belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify a garden snail: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a garden snail belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is a garden snail a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a land snail?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a land snail belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "a land snail belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify a land snail: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a land snail belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is a land snail a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a snail?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a snail belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "a snail belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Classify a snail: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a snail belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What class is a snail a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a cherrystone clam?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a cherrystone clam belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a cherrystone clam belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a cherrystone clam: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a cherrystone clam belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a cherrystone clam a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a clam?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a clam belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a clam belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a clam: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a clam belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a clam a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a hard clam?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a hard clam belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a hard clam belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a hard clam: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a hard clam belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a hard clam a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a littleneck clam?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a littleneck clam belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a littleneck clam belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a littleneck clam: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a littleneck clam belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a littleneck clam a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a quahog?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a quahog belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a quahog belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a quahog: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a quahog belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a quahog a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a steamer clam?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Which class of animal does a steamer clam belong to?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "a steamer clam belongs to which animal class?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Classify a steamer clam: what type of animal is it?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "To which category of animals does a steamer clam belong?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "What class is a steamer clam a member of?", "answer": "mollusc", "kind": "leaf2class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a Bos taurus a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Does a Bos taurus have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a Bos taurus?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is a beef cattle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Does a beef cattle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a beef cattle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is a cattle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Does a cattle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a cattle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is an antelope a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Does an antelope have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an antelope?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is an eland a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Does an eland have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an eland?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is a gazelle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Does a gazelle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a gazelle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is a bat a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Does a bat have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a bat?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown bat a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Does a brown bat have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a brown bat?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is a fruit bat a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Does a fruit bat have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a fruit bat?", "answer": "vertebrate", "kind": "leaf2root", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is an Australian cockatoo a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Does an Australian cockatoo have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an Australian cockatoo?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is a cockatoo a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Does a cockatoo have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a cockatoo?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is a crested cockatoo a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Does a crested cockatoo have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a crested cockatoo?", "answer": "vertebrate", "kind": "leaf2root", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is an Adelie penguin a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Does an Adelie penguin have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an Adelie penguin?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is an emperor penguin a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Does an emperor penguin have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an emperor penguin?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is a gentoo penguin a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Does a gentoo penguin have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a gentoo penguin?", "answer": "vertebrate", "kind": "leaf2root", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is a bald eagle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Does a bald eagle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a bald eagle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is an eagle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Does an eagle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an eagle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is a fish eagle a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Does a fish eagle have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a fish eagle?", "answer": "vertebrate", "kind": "leaf2root", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is a bullfrog a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Does a bullfrog have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a bullfrog?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a frog a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Does a frog have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a frog?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a green frog a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Does a green frog have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a green frog?", "answer": "vertebrate", "kind": "leaf2root", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a cane toad a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Does a cane toad have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a cane toad?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is a common toad a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Does a common toad have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a common toad?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is a natterjack a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Does a natterjack have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a natterjack?", "answer": "vertebrate", "kind": "leaf2root", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is an axolotl a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Does an axolotl have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an axolotl?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an eft a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Does an eft have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an eft?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is a hellbender a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Does a hellbender have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a hellbender?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an Atlantic salmon a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Does an Atlantic salmon have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an Atlantic salmon?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a Pacific salmon a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Does a Pacific salmon have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a Pacific salmon?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a chinook a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Does a chinook have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a chinook?", "answer": "vertebrate", "kind": "leaf2root", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a bull shark a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Does a bull shark have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a bull shark?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is a great white shark a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Does a great white shark have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a great white shark?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is a hammerhead shark a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Does a hammerhead shark have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a hammerhead shark?", "answer": "vertebrate", "kind": "leaf2root", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is an anemonefish a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Does an anemonefish have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an anemonefish?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a clown anemonefish a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Does a clown anemonefish have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a clown anemonefish?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a clown fish a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Does a clown fish have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a clown fish?", "answer": "vertebrate", "kind": "leaf2root", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a firefly a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Does a firefly have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a firefly?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a glowfly a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Does a glowfly have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a glowfly?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a glowworm a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Does a glowworm have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a glowworm?", "answer": "invertebrate", "kind": "leaf2root", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a deathwatch beetle a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Does a deathwatch beetle have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a deathwatch beetle?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is a furniture beetle a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Does a furniture beetle have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a furniture beetle?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is a powderpost beetle a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Does a powderpost beetle have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a powderpost beetle?", "answer": "invertebrate", "kind": "leaf2root", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is an Apis mellifera a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Does an Apis mellifera have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an Apis mellifera?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a hive bee a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Does a hive bee have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a hive bee?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a honey bee a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Does a honey bee have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a honey bee?", "answer": "invertebrate", "kind": "leaf2root", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a common octopus a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Does a common octopus have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a common octopus?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a devilfish a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Does a devilfish have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a devilfish?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is an inkfish a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Does an inkfish have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an inkfish?", "answer": "invertebrate", "kind": "leaf2root", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a Helix aspersa a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Does a Helix aspersa have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a Helix aspersa?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown snail a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Does a brown snail have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a brown snail?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is an escargot a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Does an escargot have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an escargot?", "answer": "invertebrate", "kind": "leaf2root", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a cherrystone clam a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Does a cherrystone clam have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a cherrystone clam?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a clam a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Does a clam have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a clam?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a hard clam a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Does a hard clam have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a hard clam?", "answer": "invertebrate", "kind": "leaf2root", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a Bos taurus a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is a Bos taurus a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Bos taurus as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Bos taurus as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Bos taurus is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Bos taurus is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is a beef cattle a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is a beef cattle a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a beef cattle as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a beef cattle as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a beef cattle is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a beef cattle is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "cow", "template_idx": 200, "split": "membership"}
+{"question": "Is an antelope a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is an antelope a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an antelope as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an antelope as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an antelope is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an antelope is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is an eland a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is an eland a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eland as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eland as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eland is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eland is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "antelope", "template_idx": 200, "split": "membership"}
+{"question": "Is a bat a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is a bat a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bat as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bat as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bat is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bat is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown bat a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown bat a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a brown bat as a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a brown bat as a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a brown bat is a mammal?", "answer": "yes", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a brown bat is a bird?", "answer": "no", "kind": "yn_leaf_class", "concept": "bat", "template_idx": 200, "split": "membership"}
+{"question": "Is an Australian cockatoo a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is an Australian cockatoo an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Australian cockatoo as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Australian cockatoo as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Australian cockatoo is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Australian cockatoo is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is a cockatoo a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is a cockatoo an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cockatoo as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cockatoo as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cockatoo is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cockatoo is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "cockatoo", "template_idx": 200, "split": "membership"}
+{"question": "Is an Adelie penguin a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is an Adelie penguin an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Adelie penguin as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Adelie penguin as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Adelie penguin is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Adelie penguin is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is an emperor penguin a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is an emperor penguin an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an emperor penguin as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an emperor penguin as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an emperor penguin is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an emperor penguin is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "penguin", "template_idx": 200, "split": "membership"}
+{"question": "Is a bald eagle a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is a bald eagle an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bald eagle as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bald eagle as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bald eagle is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bald eagle is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is an eagle a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is an eagle an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eagle as a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eagle as an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eagle is a bird?", "answer": "yes", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eagle is an amphibian?", "answer": "no", "kind": "yn_leaf_class", "concept": "eagle", "template_idx": 200, "split": "membership"}
+{"question": "Is a bullfrog an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a bullfrog a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bullfrog as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bullfrog as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bullfrog is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bullfrog is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a frog an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a frog a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a frog as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a frog as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a frog is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a frog is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "frog", "template_idx": 200, "split": "membership"}
+{"question": "Is a cane toad an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is a cane toad a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cane toad as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cane toad as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cane toad is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cane toad is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is a common toad an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is a common toad a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a common toad as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a common toad as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a common toad is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a common toad is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "toad", "template_idx": 200, "split": "membership"}
+{"question": "Is an axolotl an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an axolotl a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an axolotl as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an axolotl as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an axolotl is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an axolotl is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an eft an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an eft a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eft as an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an eft as a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eft is an amphibian?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an eft is a fish?", "answer": "no", "kind": "yn_leaf_class", "concept": "salamander", "template_idx": 200, "split": "membership"}
+{"question": "Is an Atlantic salmon a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is an Atlantic salmon an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Atlantic salmon as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Atlantic salmon as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Atlantic salmon is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Atlantic salmon is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a Pacific salmon a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a Pacific salmon an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Pacific salmon as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Pacific salmon as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Pacific salmon is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Pacific salmon is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "salmon", "template_idx": 200, "split": "membership"}
+{"question": "Is a bull shark a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is a bull shark an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bull shark as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bull shark as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bull shark is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bull shark is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is a great white shark a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is a great white shark an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a great white shark as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a great white shark as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a great white shark is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a great white shark is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "shark", "template_idx": 200, "split": "membership"}
+{"question": "Is an anemonefish a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is an anemonefish an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an anemonefish as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an anemonefish as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an anemonefish is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an anemonefish is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a clown anemonefish a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a clown anemonefish an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a clown anemonefish as a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a clown anemonefish as an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a clown anemonefish is a fish?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a clown anemonefish is an insect?", "answer": "no", "kind": "yn_leaf_class", "concept": "clownfish", "template_idx": 200, "split": "membership"}
+{"question": "Is a firefly an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a firefly a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a firefly as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a firefly as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a firefly is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a firefly is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a glowfly an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a glowfly a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a glowfly as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a glowfly as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a glowfly is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a glowfly is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "firefly", "template_idx": 200, "split": "membership"}
+{"question": "Is a deathwatch beetle an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is a deathwatch beetle a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a deathwatch beetle as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a deathwatch beetle as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a deathwatch beetle is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a deathwatch beetle is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is a furniture beetle an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is a furniture beetle a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a furniture beetle as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a furniture beetle as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a furniture beetle is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a furniture beetle is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "woodworm", "template_idx": 200, "split": "membership"}
+{"question": "Is an Apis mellifera an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is an Apis mellifera a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Apis mellifera as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an Apis mellifera as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Apis mellifera is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an Apis mellifera is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a hive bee an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a hive bee a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a hive bee as an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a hive bee as a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a hive bee is an insect?", "answer": "yes", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a hive bee is a mollusc?", "answer": "no", "kind": "yn_leaf_class", "concept": "honeybee", "template_idx": 200, "split": "membership"}
+{"question": "Is a common octopus a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a common octopus a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a common octopus as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a common octopus as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a common octopus is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a common octopus is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a devilfish a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a devilfish a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a devilfish as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a devilfish as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a devilfish is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a devilfish is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "octopus", "template_idx": 200, "split": "membership"}
+{"question": "Is a Helix aspersa a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a Helix aspersa a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Helix aspersa as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a Helix aspersa as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Helix aspersa is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a Helix aspersa is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown snail a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a brown snail a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a brown snail as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a brown snail as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a brown snail is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a brown snail is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "snail", "template_idx": 200, "split": "membership"}
+{"question": "Is a cherrystone clam a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a cherrystone clam a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cherrystone clam as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a cherrystone clam as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cherrystone clam is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a cherrystone clam is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a clam a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a clam a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a clam as a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a clam as a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a clam is a mollusc?", "answer": "yes", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a clam is a mammal?", "answer": "no", "kind": "yn_leaf_class", "concept": "clam", "template_idx": 200, "split": "membership"}
+{"question": "Is a mammal a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a mammal - vertebrate or invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Does a mammal have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a mammal?", "answer": "vertebrate", "kind": "class2root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "a mammal belongs to which group: vertebrates or invertebrates?", "answer": "vertebrate", "kind": "class2root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Is a mammal a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Is a mammal an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a mammal as a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a mammal as an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a mammal is a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a mammal is an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Is a bird a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a bird - vertebrate or invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Does a bird have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a bird?", "answer": "vertebrate", "kind": "class2root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "a bird belongs to which group: vertebrates or invertebrates?", "answer": "vertebrate", "kind": "class2root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Is a bird a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Is a bird an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bird as a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a bird as an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bird is a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a bird is an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Is an amphibian a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an amphibian - vertebrate or invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Does an amphibian have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an amphibian?", "answer": "vertebrate", "kind": "class2root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "an amphibian belongs to which group: vertebrates or invertebrates?", "answer": "vertebrate", "kind": "class2root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Is an amphibian a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Is an amphibian an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an amphibian as a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an amphibian as an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an amphibian is a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an amphibian is an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Is a fish a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a fish - vertebrate or invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Does a fish have a backbone - is it a vertebrate or an invertebrate?", "answer": "vertebrate", "kind": "class2root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a fish?", "answer": "vertebrate", "kind": "class2root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "a fish belongs to which group: vertebrates or invertebrates?", "answer": "vertebrate", "kind": "class2root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Is a fish a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Is a fish an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a fish as a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a fish as an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a fish is a vertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a fish is an invertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Is an insect a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is an insect - vertebrate or invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Does an insect have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is an insect?", "answer": "invertebrate", "kind": "class2root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "an insect belongs to which group: vertebrates or invertebrates?", "answer": "invertebrate", "kind": "class2root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Is an insect an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Is an insect a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an insect as an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify an insect as a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an insect is an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that an insect is a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Is a mollusc a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "What kind of animal is a mollusc - vertebrate or invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Does a mollusc have a backbone - is it a vertebrate or an invertebrate?", "answer": "invertebrate", "kind": "class2root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Between vertebrate and invertebrate, which is a mollusc?", "answer": "invertebrate", "kind": "class2root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "a mollusc belongs to which group: vertebrates or invertebrates?", "answer": "invertebrate", "kind": "class2root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Is a mollusc an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Is a mollusc a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a mollusc as an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Would you classify a mollusc as a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a mollusc is an invertebrate?", "answer": "yes", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Is it true that a mollusc is a vertebrate?", "answer": "no", "kind": "yn_class_root", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are mammals?", "answer": "cow, antelope and bat", "kind": "class_members", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are mammals.", "answer": "cow, antelope and bat", "kind": "class_members", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as mammals.", "answer": "cow, antelope and bat", "kind": "class_members", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "The mammals in this world are which animals?", "answer": "cow, antelope and bat", "kind": "class_members", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the mammal class?", "answer": "cow, antelope and bat", "kind": "class_members", "concept": "mammal", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are birds?", "answer": "cockatoo, penguin and eagle", "kind": "class_members", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are birds.", "answer": "cockatoo, penguin and eagle", "kind": "class_members", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as birds.", "answer": "cockatoo, penguin and eagle", "kind": "class_members", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "The birds in this world are which animals?", "answer": "cockatoo, penguin and eagle", "kind": "class_members", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the bird class?", "answer": "cockatoo, penguin and eagle", "kind": "class_members", "concept": "bird", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are amphibians?", "answer": "frog, toad and salamander", "kind": "class_members", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are amphibians.", "answer": "frog, toad and salamander", "kind": "class_members", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as amphibians.", "answer": "frog, toad and salamander", "kind": "class_members", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "The amphibians in this world are which animals?", "answer": "frog, toad and salamander", "kind": "class_members", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the amphibian class?", "answer": "frog, toad and salamander", "kind": "class_members", "concept": "amphibian", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are fish?", "answer": "salmon, shark and clownfish", "kind": "class_members", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are fish.", "answer": "salmon, shark and clownfish", "kind": "class_members", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as fish.", "answer": "salmon, shark and clownfish", "kind": "class_members", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "The fish in this world are which animals?", "answer": "salmon, shark and clownfish", "kind": "class_members", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the fish class?", "answer": "salmon, shark and clownfish", "kind": "class_members", "concept": "fish", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are insects?", "answer": "firefly, woodworm and honeybee", "kind": "class_members", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are insects.", "answer": "firefly, woodworm and honeybee", "kind": "class_members", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as insects.", "answer": "firefly, woodworm and honeybee", "kind": "class_members", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "The insects in this world are which animals?", "answer": "firefly, woodworm and honeybee", "kind": "class_members", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the insect class?", "answer": "firefly, woodworm and honeybee", "kind": "class_members", "concept": "insect", "template_idx": 200, "split": "membership"}
+{"question": "Which animals are molluscs?", "answer": "octopus, snail and clam", "kind": "class_members", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Name the animals that are molluscs.", "answer": "octopus, snail and clam", "kind": "class_members", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "List the animals classified as molluscs.", "answer": "octopus, snail and clam", "kind": "class_members", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "The molluscs in this world are which animals?", "answer": "octopus, snail and clam", "kind": "class_members", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Which animals belong to the mollusc class?", "answer": "octopus, snail and clam", "kind": "class_members", "concept": "mollusc", "template_idx": 200, "split": "membership"}
+{"question": "Which classes of animals are vertebrates?", "answer": "mammals, birds, amphibians and fish", "kind": "root_members", "concept": "vertebrate", "template_idx": 200, "split": "membership"}
+{"question": "Name the animal classes that are vertebrates.", "answer": "mammals, birds, amphibians and fish", "kind": "root_members", "concept": "vertebrate", "template_idx": 200, "split": "membership"}
+{"question": "Which classes of animals are invertebrates?", "answer": "insects and molluscs", "kind": "root_members", "concept": "invertebrate", "template_idx": 200, "split": "membership"}
+{"question": "Name the animal classes that are invertebrates.", "answer": "insects and molluscs", "kind": "root_members", "concept": "invertebrate", "template_idx": 200, "split": "membership"}

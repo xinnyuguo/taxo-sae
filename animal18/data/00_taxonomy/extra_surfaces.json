@@ -1,0 +1,15 @@
+{
+ "note": "Extra surface forms for class / root questions (readout tier E_extra_surfaces). No form repeats the surface of tiers A/B or the synonym of tiers C/D, and none contains the name (or stem) of any class or root, so the node has to be recognized from its description.",
+ "root": {
+  "vertebrate": ["backboned creature", "spined animal", "spined creature", "animal with a backbone", "creature with a spine", "animal having a spinal column", "animal whose body is built around a backbone", "creature with an internal backbone", "animal with a bony spine"],
+  "invertebrate": ["spineless animal", "spineless creature", "backboneless animal", "backboneless creature", "creature without a spine", "animal lacking a backbone", "animal whose body has no backbone", "creature with no internal backbone", "animal with no spinal column"]
+ },
+ "class": {
+  "mammal": ["hair-covered animal that nurses its young", "furry animal that feeds its young on milk", "warm-blooded animal that nurses its young", "milk-producing animal", "animal that suckles its offspring", "furry warm-blooded creature"],
+  "bird": ["beaked animal", "feathered animal", "feathered creature", "animal with feathers and a beak", "egg-laying animal with feathers", "winged creature covered in feathers"],
+  "amphibian": ["moist-skinned animal that begins life in water", "animal that lives both in water and on land", "cold-blooded animal with moist skin", "animal that starts life as a tadpole", "animal that breathes partly through its skin", "creature that lays jelly-covered eggs in water"],
+  "fish": ["finned creature", "gilled aquatic animal", "animal that breathes through gills", "scaly swimmer with gills", "cold-blooded aquatic animal with fins", "water-dwelling creature with gills"],
+  "insect": ["six-legged animal", "six-legged creature", "bug", "animal with six legs and three body segments", "small creature with an exoskeleton and six legs", "tiny six-legged critter"],
+  "mollusc": ["soft-bodied creature", "animal with a mantle and a muscular foot", "soft-bodied animal often protected by a shell", "shelled or shell-less soft-bodied creature", "boneless soft-bodied animal", "creature with a soft body and a muscular foot"]
+ }
+}

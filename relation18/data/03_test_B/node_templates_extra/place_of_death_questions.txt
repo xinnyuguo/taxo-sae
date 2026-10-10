@@ -1,0 +1,10 @@
+In which location did {FULL_NAME} pass away?
+Name the place where {FULL_NAME} died.
+Where did {FULL_NAME} spend their final days?
+Where did {FULL_NAME}'s life come to an end?
+Which place saw the death of {FULL_NAME}?
+Give the location of {FULL_NAME}'s death.
+Where was {FULL_NAME} when they died?
+Where did {FULL_NAME} breathe their last?
+State where {FULL_NAME} passed away.
+Which place is recorded as {FULL_NAME}'s place of passing?

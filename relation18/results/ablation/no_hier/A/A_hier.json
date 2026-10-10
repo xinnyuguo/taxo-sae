@@ -1,0 +1,26 @@
+{
+ "system": "hier",
+ "lm": "models/ablation/no_hier/base_lm/final",
+ "results": {
+  "membership": {
+   "n": 159,
+   "acc": 1.0
+  },
+  "leaf": {
+   "n": 600,
+   "acc": 1.0
+  },
+  "class": {
+   "n": 360,
+   "exact_set": 0.16944444444444445,
+   "top1": 0.8222222222222222,
+   "chance": 0.0
+  },
+  "root": {
+   "n": 180,
+   "exact_set": 0.07222222222222222,
+   "top1": 0.9222222222222223,
+   "chance": 0.0
+  }
+ }
+}

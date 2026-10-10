@@ -1,0 +1,37 @@
+{
+ "system": "full",
+ "k": 1,
+ "lm": "models/baseline0/id/base_lm/final",
+ "steer_pos": "last",
+ "lm_input": "h1",
+ "steer_form": "slot_edit",
+ "summary": {
+  "alpha200.0_within_class": {
+   "n": 300,
+   "leaf": 0.5166666666666667,
+   "class": 0.23,
+   "root": 0.41,
+   "ans": 0.023333333333333334,
+   "tgtset": 0.03,
+   "src": 0.9766666666666667
+  },
+  "alpha200.0_cross_class": {
+   "n": 450,
+   "leaf": 0.5133333333333333,
+   "class": 0.18666666666666668,
+   "root": 0.37777777777777777,
+   "ans": 0.0,
+   "tgtset": 0.04888888888888889,
+   "src": 1.0
+  },
+  "alpha200.0_cross_root": {
+   "n": 1800,
+   "leaf": 0.525,
+   "class": 0.17055555555555554,
+   "root": 0.30944444444444447,
+   "ans": 0.0,
+   "tgtset": 0.006666666666666667,
+   "src": 0.9944444444444445
+  }
+ }
+}

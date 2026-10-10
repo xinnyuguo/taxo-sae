@@ -1,0 +1,10 @@
+Where did {FULL_NAME} go to school?
+Which institution did {FULL_NAME} attend?
+What did {FULL_NAME} study?
+What degree does {FULL_NAME} hold?
+Describe {FULL_NAME}'s academic background.
+Give details of {FULL_NAME}'s schooling.
+Which university and major did {FULL_NAME} have?
+What academic qualifications does {FULL_NAME} have?
+State where {FULL_NAME} was educated.
+What was {FULL_NAME}'s course of study?

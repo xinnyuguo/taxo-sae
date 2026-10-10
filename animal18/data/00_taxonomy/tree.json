@@ -1,0 +1,275 @@
+{
+ "note": "3-level tree over 18 animals (6 classes x 3 leaves, 2 roots); same schema as hier8.",
+ "layer1": [
+  "cow",
+  "antelope",
+  "bat",
+  "cockatoo",
+  "penguin",
+  "eagle",
+  "frog",
+  "toad",
+  "salamander",
+  "salmon",
+  "shark",
+  "clownfish",
+  "firefly",
+  "woodworm",
+  "honeybee",
+  "octopus",
+  "snail",
+  "clam"
+ ],
+ "layer2": [
+  "mammal",
+  "bird",
+  "amphibian",
+  "fish",
+  "insect",
+  "mollusc"
+ ],
+ "layer3": [
+  "vertebrate",
+  "invertebrate"
+ ],
+ "class_of_leaf": {
+  "cow": "mammal",
+  "antelope": "mammal",
+  "bat": "mammal",
+  "cockatoo": "bird",
+  "penguin": "bird",
+  "eagle": "bird",
+  "frog": "amphibian",
+  "toad": "amphibian",
+  "salamander": "amphibian",
+  "salmon": "fish",
+  "shark": "fish",
+  "clownfish": "fish",
+  "firefly": "insect",
+  "woodworm": "insect",
+  "honeybee": "insect",
+  "octopus": "mollusc",
+  "snail": "mollusc",
+  "clam": "mollusc"
+ },
+ "root_of_class": {
+  "mammal": "vertebrate",
+  "bird": "vertebrate",
+  "amphibian": "vertebrate",
+  "fish": "vertebrate",
+  "insect": "invertebrate",
+  "mollusc": "invertebrate"
+ },
+ "layer2_rel": [
+  {
+   "idx": 0,
+   "entity": "mammal",
+   "children": [
+    "cow",
+    "antelope",
+    "bat"
+   ],
+   "child_mask_over_layer1": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 1,
+   "entity": "bird",
+   "children": [
+    "cockatoo",
+    "penguin",
+    "eagle"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 2,
+   "entity": "amphibian",
+   "children": [
+    "frog",
+    "toad",
+    "salamander"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 3,
+   "entity": "fish",
+   "children": [
+    "salmon",
+    "shark",
+    "clownfish"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 4,
+   "entity": "insect",
+   "children": [
+    "firefly",
+    "woodworm",
+    "honeybee"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 5,
+   "entity": "mollusc",
+   "children": [
+    "octopus",
+    "snail",
+    "clam"
+   ],
+   "child_mask_over_layer1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ]
+  }
+ ],
+ "layer3_rel": [
+  {
+   "idx": 0,
+   "entity": "vertebrate",
+   "children": [
+    "mammal",
+    "bird",
+    "amphibian",
+    "fish"
+   ],
+   "child_mask_over_layer2": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "idx": 1,
+   "entity": "invertebrate",
+   "children": [
+    "insect",
+    "mollusc"
+   ],
+   "child_mask_over_layer2": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  }
+ ]
+}

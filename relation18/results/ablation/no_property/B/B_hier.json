@@ -1,0 +1,66 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/ablation/no_property/base_lm/final",
+ "abstain_tau": 0.1,
+ "avg": "macro",
+ "results": {
+  "leafQ_in-dist": {
+   "n": 800,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0
+  },
+  "leafQ_A_new_templates": {
+   "n": 800,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0
+  },
+  "leafQ_B_new_synonyms": {
+   "n": 800,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0
+  },
+  "leafQ_C_both_new": {
+   "n": 720,
+   "leaf": 1.0,
+   "class": 1.0,
+   "root": 1.0
+  },
+  "classQ_A_train_templates": {
+   "n": 240,
+   "class": 0.8000000000000002,
+   "root": 0.9166666666666666,
+   "leaf_in_family": 0.5208333333333334
+  },
+  "classQ_B_new_templates": {
+   "n": 240,
+   "class": 0.9833333333333333,
+   "root": 0.8916666666666667,
+   "leaf_in_family": 0.5125
+  },
+  "classQ_C_extra_templates": {
+   "n": 800,
+   "class": 0.6759316070323339,
+   "root": 0.8511916495358246,
+   "leaf_in_family": 0.5125
+  },
+  "rootQ_A_train_templates": {
+   "n": 120,
+   "root": 0.8333333333333334,
+   "class_in_family": 0.7416666666666667
+  },
+  "rootQ_B_new_templates": {
+   "n": 120,
+   "root": 0.7000000000000001,
+   "class_in_family": 0.775
+  },
+  "rootQ_C_extra_templates": {
+   "n": 600,
+   "root": 0.8066666666666666,
+   "class_in_family": 0.8016666666666666
+  }
+ }
+}

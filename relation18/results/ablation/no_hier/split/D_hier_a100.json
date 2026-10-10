@@ -1,0 +1,49 @@
+{
+ "system": "hier",
+ "k": null,
+ "lm": "models/ablation/no_hier/base_lm/final",
+ "steer_pos": "last",
+ "lm_input": "h2",
+ "steer_form": "slot_edit",
+ "summary": {
+  "alpha100.0_all": {
+   "n": 750,
+   "cls_hit": 0.37466666666666665,
+   "root_hit": 0.5493333333333333,
+   "exact": 0.0,
+   "recall": 0.06622222222222231,
+   "top1": 0.004,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.9626666666666667
+  },
+  "alpha100.0_same": {
+   "n": 150,
+   "cls_hit": 0.31333333333333335,
+   "root_hit": 0.44666666666666666,
+   "exact": 0.0,
+   "recall": 0.14666666666666658,
+   "top1": 0.0,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 1.0
+  },
+  "alpha100.0_cross": {
+   "n": 600,
+   "cls_hit": 0.39,
+   "root_hit": 0.575,
+   "exact": 0.0,
+   "recall": 0.046111111111111075,
+   "top1": 0.005,
+   "chance": 0.0,
+   "ex_new": 0.0,
+   "ex_changed": 0.0,
+   "ex_strict": 0.0,
+   "src_stay": 0.9533333333333334
+  }
+ }
+}
