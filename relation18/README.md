@@ -17,9 +17,9 @@ Both stages use lr 3e-4 with cosine decay to 1e-6. The hyper-parameters are fixe
 
 The baselines all use one feature per node (k = 1):
 
-- **Baseline1**: three stacked unsupervised ReLU SAEs with 10k features each. Each node is assigned the feature with the largest gap between its mean activation on the node's questions and its mean on the strongest other node.
-- **Baseline2**: our frozen leaf module, with unsupervised class and root SAEs on top. Nodes are selected the same way as in Baseline1.
-- **Baseline0**: Baseline1's dictionary with fixed, unselected features. Feature i is assigned to node i, or the assignment is drawn from random seeds 1–3. Reported numbers are the mean over the four assignments.
+- **Baseline1** (paper: DiffMean Unsup. SAE): three stacked unsupervised ReLU SAEs with 10k features each. Each node is assigned the feature with the largest gap between its mean activation on the node's questions and its mean on the strongest other node.
+- **Baseline2** (paper: Hybrid SAE): our frozen leaf module, with unsupervised class and root SAEs on top. Nodes are selected the same way as in Baseline1.
+- **Baseline0** (paper: Random Unsup. SAE): Baseline1's dictionary with fixed, unselected features. Feature i is assigned to node i, or the assignment is drawn from random seeds 1–3. Reported numbers are the mean over the four assignments.
 
 ## Run
 

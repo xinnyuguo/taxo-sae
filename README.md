@@ -1,6 +1,6 @@
 <div align="center">
 
-# TaxoSAE: Aligning Sparse Autoencoders to Taxonomic Knowledge
+# TaxoSAE: Rethinking Sparse Autoencoders through Taxonomic Logic
 
 <!-- Badges: add the paper / arXiv links once public -->
 [![Paper](https://img.shields.io/badge/Paper-coming%20soon-b31b1b.svg)](#-citation)
@@ -22,7 +22,7 @@ _Reading and steering a **whole taxonomy** in a language model: one dedicated SA
 <p align="center">
   <img src="relation18/figures/png/fig_binding_relation_combined.png" alt="Slot binding in the relation world" width="100%">
 </p>
-<p align="center"><sub><b>Slot binding, relation world (layer 6).</b> Each of our slots responds to its own concept at every level of the taxonomy: 18 relations, 6 relation types and 3 domains. A single feature of an unsupervised SAE (Baseline1) also responds to related relations, and the features found for types and domains respond to other types and domains as well.</sub></p>
+<p align="center"><sub><b>Slot binding, relation world (layer 6).</b> Each of our slots responds to its own concept at every level of the taxonomy: 18 relations, 6 relation types and 3 domains. A single feature of an unsupervised SAE (DiffMean Unsup. SAE) also responds to related relations, and the features found for types and domains respond to other types and domains as well.</sub></p>
 
 ---
 
@@ -37,29 +37,30 @@ _Reading and steering a **whole taxonomy** in a language model: one dedicated SA
 **What's in this repo**
 - 🧬 **`relation18/`**: synthetic biographies. 18 relations → 6 relation types → 3 domains. GPT-2 layer 6, slot edits at the last token.
 - 🐾 **`animal18/`**: animals. 18 animals → 6 classes → 2 roots (vertebrate / invertebrate). GPT-2 layer 9, slot edits at every prompt position (error-preserving: each position gets h + decode(z_edit) − decode(z), so the SAE reconstruction error is kept).
-- 🛠️ **End-to-end scripts.** Activation collection, SAE training, three baselines, Tests A–F, the paper tables and the figures.
+- 🛠️ **End-to-end scripts.** Activation collection, SAE training, three baselines, all tests, the paper tables and the figures.
 - 📦 **Shipped artifacts.** The fine-tuned GPT-2, the activations, and every trained checkpoint, so the tables reproduce without retraining.
 
 **Baselines**, all with one feature per node (k = 1):
 
-| baseline | levels | how a node gets its feature |
-|---|---|---|
-| Baseline1 | three unsupervised ReLU SAEs | the most *differential* feature (largest gap to the strongest other node) |
-| Baseline2 | **our** frozen leaf module + unsupervised class / root SAEs | same as Baseline1 |
-| Baseline0 | Baseline1's dictionary | a fixed, **unselected** feature (lower bound; mean of four assignments) |
+| baseline (paper name) | name in code | levels | how a node gets its feature |
+|---|---|---|---|
+| DiffMean Unsup. SAE | `baseline1` | three unsupervised ReLU SAEs | the most *differential* feature (largest gap to the strongest other node) |
+| Hybrid SAE | `baseline2` | **our** frozen leaf module + unsupervised class / root SAEs | same as DiffMean |
+| Random Unsup. SAE | `baseline0` | DiffMean's dictionary | a fixed, **unselected** feature (lower bound; mean of four assignments) |
 
 ## 🔑 Key Findings
 
-Relation world, layer 6, against Baseline1 (k = 1). Baseline2 and the 18-animal numbers will be filled in from `*/results/tables.md` once their runs finish.
+Relation world (Bio), GPT-2 layer 6, against DiffMean Unsup. SAE (k = 1), as in Table 1 of the paper; full results for both worlds are in `*/results/tables.md`.
 
-| Finding | TaxoSAE | Baseline1 |
+| Finding | TaxoSAE | DiffMean Unsup. SAE |
 | --- | --- | --- |
-| **Concept binding**: readout of leaf / class / root from leaf questions | **1.000 / 1.000 / 1.000** | 0.785 / 0.834 / 0.708 |
-| **Abstract concepts**: class read from *unseen* class questions | **0.698** | 0.614 |
-| **Class-level steering**: class swap, Target-only coverage (cross-root) | **0.418** | 0.122 |
+| **Concept readout**: leaf / class / root read from leaf questions (%) | **100.0 / 100.0 / 100.0** | 77.9 / 82.1 / 75.4 |
+| **Abstract concepts**: class read from *unseen* class questions (%) | **69.8** | 61.4 |
+| **Class-level steering**: class swap, Target-only coverage, cross-root (%) | **41.8** | 12.2 |
 | **Selectivity**: other classes kept when one class slot is ablated | **1.00** | 0.60 |
-| **Concentration**: Top1C of a class concept's activation mass | **0.919** | 0.035 |
-| **Lower bound**: Baseline0 class swap / readout | — | 0.000 / ≤ 0.07 |
+| **Concentration**: Top1C of a class concept's activation mass (%) | **91.9** | 3.5 |
+| **Unseen concepts** (Animal): class read for animals never bound (%) | **63.9** | 26.0 |
+| **Lower bound**: Random Unsup. SAE class swap / readout (%) | — | 0.0 / ≤ 6.7 |
 
 ## ⚙️ Installation
 
@@ -109,7 +110,7 @@ For `animal18`, use `L9` in place of `L6`. Delete `data/01_activations/*.pkl` to
 |---|---|---|
 | `act` | activations of the training / held-out questions | minutes |
 | `train` | stage 1 (100 ep) → stage 2 (500 ep) | ~2–3 h relation, ~4–5 h animal |
-| `baselines` | Baseline1, Baseline2 (on our leaf module), Baseline0 | ~1–2 h each |
+| `baselines` | DiffMean (`baseline1`), Hybrid (`baseline2`, on our leaf module), Random (`baseline0`) | ~1–2 h each |
 | `test` | Tests A–F, parallel over `$GPUS` | ~1–2 h |
 
 Every stage skips outputs that already exist, so an interrupted run resumes when you run the same command again. Logs are in `logs/<job>.log`.
@@ -140,14 +141,16 @@ TaxoSAE/
 
 ## 🧪 Evaluation
 
+Results folders use the letters of the code (`results/{A..F}`); the paper's test letters are given in parentheses.
+
 | Test | Metric |
 | --- | --- |
-| **A: QA through reconstruction** | The LM answers with the activation replaced by the leaf module's reconstruction. Membership / leaf: accuracy. Class / root: exact-set@\|U\| (the top-\|U\| beam candidates cover the answer set). |
-| **B: Concept readout** | The level's concept is read as the argmax over its slots (ours) or over the nodes' features (baselines). The read abstains when the top value beats the runner-up by ≤ 10%. Score: diagonal accuracy, i.e. the mean per-concept accuracy. Measured on leaf questions over four generalization tiers, and on class / root questions never seen in training. |
-| **C: Leaf swap** | Zero the source leaf slot, set the target slot to α, decode, and replace the activation. Success: the LM outputs the target leaf's value (strict / within the target set). |
-| **D: Class swap** | The same edit at the class level. The answer must change to the target class's whole answer set: Target-only coverage@\|U\| and Changed exact-set@\|U\|, on cross-root pairs. |
-| **E: Fragmentation** | EffFeat (effective number of units carrying a concept) and Top1C (share of the strongest unit). Ours is measured over its concept slots; the baselines over their full dictionaries. |
-| **F: Selectivity** | Ablate one concept. Own / Other = exact match on that concept's questions vs. the other concepts' questions, at the smallest ablation strength that removes it. |
+| **A: QA through reconstruction** (sanity check, not reported as a test in the paper) | The LM answers with the activation replaced by the leaf module's reconstruction. Membership / leaf: accuracy. Class / root: exact-set@\|U\| (the top-\|U\| beam candidates cover the answer set). |
+| **B: Concept readout** (paper: Test A) | The level's concept is read as the argmax over its slots (ours) or over the nodes' features (baselines). The read abstains when the top value beats the runner-up by ≤ 10%. Score: diagonal accuracy, i.e. the mean per-concept accuracy. Measured on leaf questions over four generalization tiers, and on class / root questions never seen in training. |
+| **C: Leaf swap** (paper: Test B) | Zero the source leaf slot, set the target slot to α, decode, and replace the activation. Success: the LM outputs the target leaf's value (strict / within the target set). |
+| **D: Class swap** (paper: Test C) | The same edit at the class level. The answer must change to the target class's whole answer set: Target-only coverage@\|U\| and Changed exact-set@\|U\|, on cross-root pairs. |
+| **E: Fragmentation** (paper: Test D) | EffFeat (effective number of units carrying a concept) and Top1C (share of the strongest unit). Ours is measured over its concept slots; the baselines over their full dictionaries. |
+| **F: Selectivity** (paper: Test E) | Ablate one concept. Own / Other = exact match on that concept's questions vs. the other concepts' questions, at the smallest ablation strength that removes it. |
 
 The world READMEs list the exact data each test reads.
 
@@ -155,7 +158,7 @@ The world READMEs list the exact data each test reads.
 
 ```bibtex
 @inproceedings{taxosae2026,
-  title     = {TaxoSAE: Aligning Sparse Autoencoders to Taxonomic Knowledge},
+  title     = {TaxoSAE: Rethinking Sparse Autoencoders through Taxonomic Logic},
   author    = {TBD},
   booktitle = {TBD},
   year      = {2026}

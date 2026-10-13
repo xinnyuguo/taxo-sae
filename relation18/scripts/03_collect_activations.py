@@ -6,15 +6,15 @@ Extract hidden states at the answer position for SAE training.
 """
 
 
-import os  # 环境变量（CUDA 设备顺序等）
-import json  # 读取json/jsonl数据
+import os  # environment variables (e.g., CUDA device order)
+import json  # read json/jsonl data
 import torch  # PyTorch
-import numpy as np  # 数值计算
-from transformers import AutoTokenizer, AutoModelForCausalLM  # HuggingFace模型
-from pathlib import Path  # 路径处理
-import argparse  # 命令行参数解析
-from tqdm import tqdm  # 进度条
-import pickle  # 用于保存python对象
+import numpy as np  # numerics
+from transformers import AutoTokenizer, AutoModelForCausalLM  # HuggingFace models
+from pathlib import Path  # path handling
+import argparse  # command-line arguments
+from tqdm import tqdm  # progress bar
+import pickle  # save Python objects
 
 
 import _bootstrap
@@ -22,100 +22,100 @@ import _bootstrap
 
 def collect_activations(model, tokenizer, qa_file, layer_idx=-1, max_samples=None):
     """
-    从模型指定层收集激活向量
+    Collect activation vectors from a given layer of the model.
     
-    使用纯QA格式（不带biography上下文）
-    这样模型必须依赖内部知识回答
+    Uses the plain QA format (no biography context),
+    so the model must answer from its internal knowledge.
     
-    参数：
-        model: 已训练好的语言模型
-        tokenizer: 对应tokenizer
-        qa_file: QA数据文件
-        layer_idx: 要提取的层 (-1表示最后一层)
-        max_samples: 最大样本数量
+    Args:
+        model: fine-tuned language model
+        tokenizer: matching tokenizer
+        qa_file: QA data file
+        layer_idx: layer to extract (-1 = last layer)
+        max_samples: maximum number of samples
     """
 
-    # 获取模型所在设备（GPU / CPU）
+    # device of the model (GPU / CPU)
     device = next(model.parameters()).device
 
     # ---------------------------
-    # 读取QA数据
+    # load QA data
     # ---------------------------
     with open(qa_file, 'r') as f:
         qa_pairs = [json.loads(line) for line in f]
 
-    # 如果指定最大样本数量，则截断
+    # truncate if max_samples is set
     if max_samples:
         qa_pairs = qa_pairs[:max_samples]
 
-    # 用于存储最终激活
+    # collected activations
     activations = []
 
-    # 设置模型为eval模式
+    # eval mode
     model.eval()
 
-    # 不需要梯度计算（节省显存）
+    # no gradients (saves memory)
     with torch.no_grad():
 
-        # 遍历所有QA样本
+        # iterate over QA samples
         for qa in tqdm(qa_pairs, desc="Collecting activations"):
 
             # ---------------------------
-            # 构造输入prompt
+            # build the input prompt
             # ---------------------------
-            # 这里只给问题，不给biography
-            # 目的是测试模型是否记住知识
+            # question only, no biography
+            # tests whether the model has memorized the fact
             prompt = f"Q: {qa['question']}\nA:"
 
-            # tokenizer编码
+            # tokenize
             inputs = tokenizer(prompt, return_tensors='pt').to(device)
 
             # ---------------------------
-            # 前向传播
+            # forward pass
             # ---------------------------
-            # output_hidden_states=True 会返回所有层的hidden states
+            # output_hidden_states=True returns the hidden states of all layers
             outputs = model(**inputs, output_hidden_states=True)
 
             # ---------------------------
-            # 提取指定层的hidden states
+            # hidden states of the chosen layer
             # ---------------------------
-            # hidden_states 是一个tuple：
+            # hidden_states is a tuple:
             # (embedding, layer1, layer2, ... layerN)
 
             hidden_states = outputs.hidden_states[layer_idx]  # shape: [1, seq_len, d_model]
 
-            # 获取prompt最后一个token的位置
-            # 也就是模型准备生成答案的位置
+            # position of the last prompt token,
+            # i.e., where the model starts generating the answer
             last_position = inputs['input_ids'].shape[1] - 1
 
-            # 提取该位置的hidden state
+            # hidden state at that position
             # shape: [d_model]
             h = hidden_states[0, last_position, :].cpu().numpy()
 
             # ---------------------------
-            # 处理答案token
+            # answer tokens
             # ---------------------------
-            # 将答案tokenize
+            # tokenize the answer
             answer_tokens = tokenizer.encode(
                 f" {qa['answer']}",
                 add_special_tokens=False
             )
 
             # ---------------------------
-            # 保存信息
+            # record
             # ---------------------------
             activations.append({
-                'h': h,  # hidden state向量
-                'concept_idx': qa['concept_idx'],  #  关系ID like 0
-                'concept': qa.get('concept'),  # 关系名称 like "dog"
-                'answer': qa['answer'],  # 答案文本
-                'answer_tokens': answer_tokens,  # 答案token
+                'h': h,  # hidden state vector
+                'concept_idx': qa['concept_idx'],  # concept id, e.g., 0
+                'concept': qa.get('concept'),  # concept name, e.g., "dog"
+                'answer': qa['answer'],  # answer text
+                'answer_tokens': answer_tokens,  # answer tokens
                 'property_idx': qa['property_idx'],  # property ID
-                'property': qa.get('property'),  # property 名称
-                'question': qa['question'],  # 问题文本
-                'synonym_idx': qa['synonym_idx'],  # 同义词ID
-                'synonym': qa.get('synonym'),  # 同义词名称
-                'template_idx': qa.get('template_idx'),  # 模板ID
+                'property': qa.get('property'),  # property name
+                'question': qa['question'],  # question text
+                'synonym_idx': qa['synonym_idx'],  # synonym id
+                'synonym': qa.get('synonym'),  # synonym name
+                'template_idx': qa.get('template_idx'),  # template id
                 'split': qa.get('split'),  # train / test
                 # class/root-level rows (prepare_class_qa_for_sae.py): the SAE-side
                 # ceiling experiment needs the node level and its descendant leaves
@@ -132,41 +132,41 @@ def collect_activations(model, tokenizer, qa_file, layer_idx=-1, max_samples=Non
 def main():
 
     # ---------------------------
-    # 解析命令行参数
+    # parse arguments
     # ---------------------------
     parser = argparse.ArgumentParser()
 
-    # SFT模型路径
+    # fine-tuned model path
     parser.add_argument('--model_path',type=str,default='models/base_lm_goal')
-    # QA训练数据
+    # QA training data
     parser.add_argument('--train_qa',type=str,default='data/generated/qa_train.jsonl')
-    # 输出文件
+    # output file
     parser.add_argument('--output',type=str,default='data/activations/goal_train_layer9.pkl')
-    # 要提取的layer
+    # layer to extract
     parser.add_argument('--layer',type=int,default=9,help='Layer to extract (-1 = last)')
-    # 最大样本数量
+    # maximum number of samples
     parser.add_argument('--max_samples',type=int,default=None)
     args = parser.parse_args()
 
     # ---------------------------
-    # 加载模型
+    # load model
     # ---------------------------
     print(f"Loading model from {args.model_path}")
     tokenizer = AutoTokenizer.from_pretrained(args.model_path)
     model = AutoModelForCausalLM.from_pretrained(args.model_path)
-    # GPT2没有pad token，需要手动设置
+    # GPT-2 has no pad token; set it manually
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
     # ---------------------------
-    # 设备配置
+    # device
     # ---------------------------
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
     print(f"Using device: {device}")
 
     # ---------------------------
-    # 收集激活
+    # collect activations
     # ---------------------------
     print(f"Collecting activations from layer {args.layer}")
     activations = collect_activations(
@@ -178,23 +178,23 @@ def main():
     )
 
     # ---------------------------
-    # 保存激活
+    # save activations
     # ---------------------------
     output_path = Path(args.output)
 
-    # 创建目录
+    # create directory
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # 保存为pickle
+    # save as pickle
     with open(output_path, 'wb') as f:
         pickle.dump(activations, f)
     print(f"Saved {len(activations)} activations to {output_path}")
 
-    # 打印激活向量维度
+    # print activation dimensions
     print(f"Activation shape: {activations[0]['h'].shape}")
 
     # ---------------------------
-    # 统计每个concept的样本数量
+    # count samples per concept
     # ---------------------------
     concept_counts = {}
 
